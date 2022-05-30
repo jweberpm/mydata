@@ -1,0 +1,1459 @@
+"faa","name","location","alt","tz"
+"04G","Lansdowne Airport",POINT(-80.6195833 41.1304722),1044,-5
+"06A","Moton Field Municipal Airport",POINT(-85.6800278 32.4605722),264,-6
+"06C","Schaumburg Regional",POINT(-88.1012428 41.9893408),801,-6
+"06N","Randall Airport",POINT(-74.3915611 41.431912),523,-5
+"09J","Jekyll Island Airport",POINT(-81.4277778 31.0744722),11,-5
+"0A9","Elizabethton Municipal Airport",POINT(-82.1734167 36.3712222),1593,-5
+"0G6","Williams County Airport",POINT(-84.5067778 41.4673056),730,-5
+"0G7","Finger Lakes Regional Airport",POINT(-76.7812318 42.8835647),492,-5
+"0P2","Shoestring Aviation Airfield",POINT(-76.6471914 39.7948244),1000,-5
+"0S9","Jefferson County Intl",POINT(-122.8106436 48.0538086),108,-8
+"0W3","Harford County Airport",POINT(-76.2024028 39.5668378),409,-5
+"10C","Galt Field Airport",POINT(-88.3751111 42.4028889),875,-6
+"17G","Port Bucyrus-Crawford County Airport",POINT(-82.9748056 40.7815556),1003,-5
+"19A","Jackson County Airport",POINT(-83.5615972 34.1758638),951,-5
+"1A3","Martin Campbell Field Airport",POINT(-84.3468333 35.0158056),1789,-5
+"1B9","Mansfield Municipal",POINT(-71.1967714 42.0001331),122,-5
+"1C9","Frazier Lake Airpark",POINT(-124.768333333333 54.0133333333333),152,-8
+"1CS","Clow International Airport",POINT(-88.1292306 41.6959744),670,-6
+"1G3","Kent State Airport",POINT(-81.4151111 41.1513889),1134,-5
+"1G4","Grand Canyon West Airport",POINT(-113.815674 35.899904),4813,-7
+"1H2","Effingham Memorial Airport",POINT(-88.534 39.07),585,-6
+"1OH","Fortman Airport",POINT(-84.3866186 40.5553253),885,-5
+"1RL","Point Roberts Airpark",POINT(-123.0788889 48.9797222),10,-8
+"23M","Clarke CO",POINT(-88.4434 32.0517),320,-6
+"24C","Lowell City Airport",POINT(-85.3439058 42.95392),681,-5
+"24J","Suwannee County Airport",POINT(-83.0246944 30.300125),104,-5
+"25D","Forest Lake Airport",POINT(-92.9943853 45.2477456),925,-6
+"29D","Grove City Airport",POINT(-80.16775 41.1460278),1371,-5
+"2A0","Mark Anton Airport",POINT(-84.9310833 35.48625),718,-5
+"2B2","Plum Island Airport",POINT(-70.8394444 42.7953611),11,-5
+"2G2","Jefferson County Airpark",POINT(-80.7008742 40.3602179),1196,-5
+"2G9","Somerset County Airport",POINT(-79.0149951 40.0388708),2275,-5
+"2H0","Shelby County Airport",POINT(-88.845556 39.410556),550,-6
+"2J9","Quincy Municipal Airport",POINT(-84.557425 30.5978708),225,-5
+"369","Atmautluak Airport",POINT(-162.273056 60.866667),18,-9
+"36U","Heber City Municipal Airport",POINT(-111.4288056 40.4818056),5637,-7
+"38W","Lynden Airport",POINT(-122.4581183 48.9558961),106,-8
+"3D2","Ephraim-Gibraltar Airport",POINT(-87.1879444 45.1354167),773,-6
+"3G3","Wadsworth Municipal",POINT(-81.7564401 41.0031572),974,-5
+"3G4","Ashland County Airport",POINT(-82.2556389 40.9029722),1206,-5
+"3J1","Ridgeland Airport",POINT(-80.99175 32.4934167),79,-5
+"3W2","Put-in-Bay Airport",POINT(-82.497 41.3521),595,-5
+"40J","Perry-Foley Airport",POINT(-83.5805833 30.0692778),44,-5
+"41N","Braceville Airport",POINT(-80.9692572 41.2111675),900,-5
+"47A","Cherokee County Airport",POINT(-84.4221556 34.3122175),1219,-5
+"49A","Gilmer County Airport",POINT(-84.5265833 34.6282222),1486,-5
+"49X","Chemehuevi Valley",POINT(-114.431971 34.528889),638,-8
+"4A4","Polk County Airport - Cornelius Moore Field",POINT(-85.1464722 34.0186944),974,-5
+"4A7","Clayton County Tara Field",POINT(-84.332397 33.389099),874,-5
+"4A9","Isbell Field Airport",POINT(-85.7213889 34.4736944),877,-6
+"4B8","Robertson Field",POINT(-72.8646944 41.6893333),202,-5
+"4G0","Pittsburgh-Monroeville Airport",POINT(-79.7749167 40.4526389),1187,-5
+"4G2","Hamburg Inc Airport",POINT(-78.9147569 42.7008925),751,-5
+"4G4","Youngstown Elser Metro Airport",POINT(-80.6773264 40.9617953),1070,-5
+"4I7","Putnam County Airport",POINT(-86.8138056 39.6335556),842,-5
+"4U9","Dell Flight Strip",POINT(-112.7200133 44.7357483),6007,-7
+"52A","Madison GA Municipal Airport",POINT(-83.4604444 33.612125),694,-5
+"54J","DeFuniak Springs Airport",POINT(-86.1537778 30.7311111),289,-6
+"55J","Fernandina Beach Municipal Airport",POINT(-81.4611944 30.6118333),16,-5
+"55S","Packwood",POINT(-121.4067 46.3625),1057,-8
+"57C","East Troy Municipal Airport",POINT(-88.3726111 42.7971667),860,-6
+"5B2","Saratoga County Airport",POINT(-73.861638 43.050722),433,-5
+"60J","Ocean Isle Beach Airport",POINT(-78.4366722 33.9085056),32,-5
+"6A2","Griffin-Spalding County Airport",POINT(-84.2749444 33.2269722),958,-5
+"6J4","Saluda County",POINT(-81.4768 33.5561),539,-5
+"6K8","Tok Junction Airport",POINT(-142.953611 63.329444),1639,-9
+"6S0","Big Timber Airport",POINT(-109.9811111 45.8063889),4492,-7
+"6S2","Florence",POINT(-124.1113687 43.9828168),51,-8
+"6Y8","Welke Airport",POINT(-85.520278 45.721111),664,-5
+"70J","Cairo-Grady County Airport",POINT(-84.1547353 30.8879767),265,-5
+"70N","Spring Hill Airport",POINT(-75.4158972 41.3473569),1729,-5
+"7A4","Foster Field",POINT(-90.1693889 42.4664444),990,-6
+"7D9","Germack Airport",POINT(-80.9039797 41.7778322),820,-5
+"7N7","Spitfire Aerodrome",POINT(-75.3977211 39.7355633),40,-5
+"8M8","Garland Airport",POINT(-84.2761944 44.8065278),1218,-5
+"93C","Richland Airport",POINT(-90.2982819 43.2833575),742,-6
+"99N","Bamberg County Airport",POINT(-81.1084167 33.3045278),231,-5
+"9A1","Covington Municipal Airport",POINT(-83.8474472 33.6323083),809,-5
+"9A5","Barwick Lafayette Airport",POINT(-85.2903319 34.6884792),777,-5
+"9G1","Rock Airport",POINT(-79.8261189 40.6035463),1063,-5
+"A39","Phoenix Regional Airport",POINT(-111.920997619629 32.99169921875),1300,-7
+"A50","Colorado Springs East",POINT(-104.41 38.87),6145,-7
+"AAF","Apalachicola Regional Airport",POINT(-85.0274416 29.7276066),20,-5
+"AAP","Andrau Airport",POINT(-95.35 29.43),80,-6
+"ABE","Lehigh Valley Intl",POINT(-75.440806 40.652083),393,-5
+"ABI","Abilene Rgnl",POINT(-99.681897 32.411319),1791,-6
+"ABL","Ambler Airport",POINT(-157.8575 67.106389),334,-9
+"ABQ","Albuquerque International Sunport",POINT(-106.6091944 35.0402222),5355,-7
+"ABR","Aberdeen Regional Airport",POINT(-98.4218 45.4491),1302,-6
+"ABY","Southwest Georgia Regional Airport",POINT(-84.1945 31.5355),197,-5
+"ACJ","Jimmy Carter Regional",POINT(-84.1133 32.0665),468,-5
+"ACK","Nantucket Mem",POINT(-70.060181 41.253053),48,-5
+"ACT","Waco Rgnl",POINT(-97.230519 31.611289),516,-6
+"ACV","Arcata",POINT(-124.108611 40.978111),221,-8
+"ACY","Atlantic City Intl",POINT(-74.577167 39.457583),75,-5
+"ADK","Adak Airport",POINT(-176.646 51.878),18,-9
+"ADM","Ardmore Muni",POINT(-97.008889 34.300833),762,-6
+"ADQ","Kodiak",POINT(-152.493856 57.749967),78,-9
+"ADS","Addison",POINT(-96.8364478 32.9685594),644,-6
+"ADW","Andrews Afb",POINT(-76.867028 38.810806),280,-5
+"AET","Allakaket Airport",POINT(-152.6222 66.5519),441,-9
+"AEX","Alexandria Intl",POINT(-92.549833 31.3274),89,-6
+"AFE","Kake Airport",POINT(-133.910278 56.961389),172,-9
+"AFW","Fort Worth Alliance Airport",POINT(-97.318889 32.987778),722,-6
+"AGC","Allegheny County Airport",POINT(-79.9302 40.3544),1252,-5
+"AGN","Angoon Seaplane Base",POINT(-134.585 57.503611),0,-9
+"AGS","Augusta Rgnl At Bush Fld",POINT(-81.9645 33.369944),144,-5
+"AHN","Athens Ben Epps Airport",POINT(-83.3263 33.9486),808,-5
+"AIA","Alliance Municipal Airport",POINT(-102.803889 42.053333),3931,-7
+"AIK","Municipal Airport",POINT(-81.6850278 33.6493889),529,-5
+"AIN","Wainwright Airport",POINT(-159.994722 70.638056),41,-9
+"AIZ","Lee C Fine Memorial Airport",POINT(-92.5494875 38.096035),869,-6
+"AKB","Atka Airport",POINT(-174.206389 52.220278),56,-9
+"AKC","Akron Fulton Intl",POINT(-81.466917 41.0375),1067,-5
+"AKI","Akiak Airport",POINT(-161.230556 60.902778),30,-9
+"AKK","Akhiok Airport",POINT(-154.1825 56.938611),44,-9
+"AKN","King Salmon",POINT(-156.649278 58.676778),68,-9
+"AKP","Anaktuvuk Pass Airport",POINT(-151.743 68.1336),2103,-9
+"ALB","Albany Intl",POINT(-73.801692 42.748267),285,-5
+"ALI","Alice Intl",POINT(-98.026944 27.740889),178,-6
+"ALM","Alamogordo White Sands Regional Airport",POINT(-105.991 32.8399),4200,-7
+"ALO","Waterloo Regional Airport",POINT(-92.4003 42.5571),873,-6
+"ALS","San Luis Valley Regional Airport",POINT(-105.866667 37.435),7539,-7
+"ALW","Walla Walla Regional Airport",POINT(-118.288 46.0949),1191,-8
+"ALX","Alexandria",POINT(-77.0621 38.806346),1,-5
+"ALZ","Alitak Seaplane Base",POINT(-154.247778 56.899444),0,-9
+"AMA","Rick Husband Amarillo Intl",POINT(-101.705931 35.219369),3607,-6
+"ANB","Anniston Metro",POINT(-85.858111 33.588167),612,-6
+"ANC","Ted Stevens Anchorage Intl",POINT(-149.996361 61.174361),152,-9
+"AND","Anderson Rgnl",POINT(-82.709389 34.494583),782,-5
+"ANI","Aniak Airport",POINT(-159.543 61.5816),88,-9
+"ANN","Annette Island",POINT(-131.572233 55.042436),119,-9
+"ANP","Lee Airport",POINT(-76.568333 38.942778),34,-5
+"ANQ","Tri-State Steuben County Airport",POINT(-85.0834933 41.6396983),995,-5
+"ANV","Anvik Airport",POINT(-160.191 62.6467),309,-9
+"AOH","Lima Allen County Airport",POINT(-84.0270781 40.707478),975,-5
+"AOO","Altoona Blair Co",POINT(-78.320022 40.296372),1504,-5
+"AOS","Amook Bay Seaplane Base",POINT(-153.815278 57.471389),0,-9
+"APA","Centennial",POINT(-104.849294 39.570129),5883,-7
+"APC","Napa County Airport",POINT(-122.2806944 38.2131944),35,-8
+"APF","Naples Muni",POINT(-81.775294 26.152619),8,-5
+"APG","Phillips Aaf",POINT(-76.168808 39.466219),57,-5
+"APN","Alpena County Regional Airport",POINT(-83.5603 45.0781),689,-5
+"AQC","Klawock Seaplane Base",POINT(-133.101693 55.554658),0,-9
+"ARA","Acadiana Rgnl",POINT(-91.883896 30.037758),24,-6
+"ARB","Ann Arbor Municipal Airport",POINT(-83.444418 42.132274),839,-5
+"ARC","Arctic Village Airport",POINT(-145.579 68.1147),2092,-9
+"ART","Watertown Intl",POINT(-76.021739 43.991922),325,-5
+"ARV","Lakeland",POINT(-89.730833 45.927778),1629,-6
+"ASE","Aspen Pitkin County Sardy Field",POINT(-106.869 39.2232),7820,-7
+"ASH","Boire Field Airport",POINT(-71.5147778 42.78175),199,-5
+"AST","Astoria Regional Airport",POINT(-123.878694 46.157972),15,-8
+"ATK","Atqasuk Edward Burnell Sr Memorial Airport",POINT(-157.436 70.4673),96,-9
+"ATL","Hartsfield Jackson Atlanta Intl",POINT(-84.428067 33.636719),1026,-5
+"ATT","Camp Mabry Austin City",POINT(-97.7666 30.31666),0,-6
+"ATW","Appleton",POINT(-88.507576 44.257526),680,-6
+"ATY","Watertown Regional Airport",POINT(-97.1547 44.914),1748,-6
+"AUG","Augusta State",POINT(-69.797317 44.320647),352,-5
+"AUK","Alakanuk Airport",POINT(-164.66 62.68),10,-9
+"AUO","Auburn University Regional",POINT(-85.2604 32.3691),777,-6
+"AUS","Austin Bergstrom Intl",POINT(-97.669889 30.194528),542,-6
+"AUW","Wausau Downtown Airport",POINT(-89.6270018 44.9262845),1201,-6
+"AVL","Asheville Regional Airport",POINT(-82.541806 35.436194),2165,-5
+"AVO","Executive",POINT(-81.528889 27.591389),160,-5
+"AVP","Wilkes Barre Scranton Intl",POINT(-75.723403 41.338478),962,-5
+"AVW","Marana Regional",POINT(-111.218388 32.409556),2031,-7
+"AVX","Avalon",POINT(-118.415833 33.405),1602,-8
+"AZA","Phoenix-Mesa Gateway",POINT(-111.655 33.307833),1382,-7
+"AZO","Kalamazoo",POINT(-85.552058 42.234875),874,-5
+"BAB","Beale Afb",POINT(-121.436567 39.136089),113,-8
+"BAD","Barksdale Afb",POINT(-93.662674 32.50182),166,-6
+"BAF","Barnes Municipal",POINT(-72.715875 42.1579472),270,-5
+"BBX","Wings Field",POINT(-75.265 40.1375),302,-5
+"BCE","Bryce Canyon",POINT(-112.145806 37.706444),7590,-7
+"BCT","Boca Raton",POINT(-80.107694 26.3785),13,-5
+"BDE","Baudette Intl",POINT(-94.612222 48.728444),1086,-6
+"BDL","Bradley Intl",POINT(-72.683222 41.938889),173,-5
+"BDR","Igor I Sikorsky Mem",POINT(-73.126167 41.163472),9,-5
+"BEC","Beech Factory Airport",POINT(-97.2149167 37.6939167),1409,-6
+"BED","Laurence G Hanscom Fld",POINT(-71.289031 42.469953),133,-5
+"BEH","Southwest Michigan Regional Airport",POINT(-86.4285 42.1285833),643,-5
+"BET","Bethel",POINT(-161.838 60.779778),121,-9
+"BFD","Bradford Regional Airport",POINT(-78.6401 41.8031),2143,-5
+"BFF","Western Nebraska Regional Airport",POINT(-103.596 41.874),3967,-7
+"BFI","Boeing Fld King Co Intl",POINT(-122.301947 47.53),21,-8
+"BFL","Meadows Fld",POINT(-119.05677 35.433598),507,-8
+"BFM","Mobile Downtown",POINT(-88.068092 30.626783),26,-6
+"BFP","Beaver Falls",POINT(-80.3914444 40.7724722),1253,-5
+"BFT","Beaufort",POINT(-80.723161 32.477411),37,-5
+"BGE","Decatur County Industrial Air Park",POINT(-84.6369278 30.9715981),141,-5
+"BGM","Greater Binghamton Edwin A Link Fld",POINT(-75.979839 42.208689),1636,-5
+"BGR","Bangor Intl",POINT(-68.828139 44.807444),192,-5
+"BHB","Hancock County - Bar Harbor",POINT(-68.3615653 44.4497689),83,-5
+"BHM","Birmingham Intl",POINT(-86.75355 33.562942),644,-6
+"BID","Block Island State Airport",POINT(-71.577778 41.168056),108,-5
+"BIF","Biggs Aaf",POINT(-106.380039 31.849528),3948,-7
+"BIG","Allen Aaf",POINT(-145.721642 63.994547),1291,-9
+"BIL","Billings Logan International Airport",POINT(-108.537654 45.80921),3652,-7
+"BIS","Bismarck Municipal Airport",POINT(-100.757931 46.775842),1661,-6
+"BIV","Tulip City Airport",POINT(-86.1078333 42.7427778),698,-5
+"BIX","Keesler Afb",POINT(-88.924433 30.410425),33,-6
+"BJC","Rocky Mountain Metropolitan Airport",POINT(-105.11722222 39.90888888),5670,-7
+"BJI","Bemidji Regional Airport",POINT(-94.934722 47.510722),1391,-6
+"BKC","Buckland Airport",POINT(-161.149167 65.981667),31,-9
+"BKD","Stephens Co",POINT(-98.891 32.719047),1284,-6
+"BKF","Buckley Afb",POINT(-104.75166 39.701668),5662,-7
+"BKG","Branson LLC",POINT(-93.200556 36.531994),1302,-6
+"BKH","Barking Sands Pmrf",POINT(-159.785 22.022833),23,-10
+"BKL","Burke Lakefront Airport",POINT(-81.683333 41.5175),583,-5
+"BKW","Raleigh County Memorial Airport",POINT(-81.1242 37.7873),2504,-5
+"BKX","Brookings Regional Airport",POINT(-96.8169 44.3048),1648,-6
+"BLD","Boulder City Municipal Airport",POINT(-114.514 35.5651),2201,-7
+"BLF","Mercer County Airport",POINT(-81.2077 37.2958),2857,-5
+"BLH","Blythe Airport",POINT(-114.716889 33.619167),399,-8
+"BLI","Bellingham Intl",POINT(-122.537528 48.792694),170,-8
+"BLV","Scott Afb Midamerica",POINT(-89.835183 38.545178),459,-6
+"BMC","Brigham City",POINT(-112.062 41.552),4229,-7
+"BMG","Monroe County Airport",POINT(-86.6166805 39.1460208),846,-5
+"BMI","Central Illinois Rgnl",POINT(-88.915917 40.477111),871,-6
+"BMT","Beaumont Municipal",POINT(-94.2150967 30.0702044),32,-6
+"BMX","Big Mountain Afs",POINT(-155.258822 59.361247),663,-9
+"BNA","Nashville Intl",POINT(-86.678194 36.124472),599,-6
+"BOI","Boise Air Terminal",POINT(-116.222861 43.564361),2871,-7
+"BOS","General Edward Lawrence Logan Intl",POINT(-71.005181 42.364347),19,-5
+"BOW","Bartow Municipal Airport",POINT(-81.7834 27.9434),125,-5
+"BPT","Southeast Texas Rgnl",POINT(-94.020694 29.950833),15,-6
+"BQK","Brunswick Golden Isles Airport",POINT(-81.4665 31.2588),26,-5
+"BRD","Brainerd Lakes Rgnl",POINT(-94.138078 46.398308),1226,-6
+"BRL","Southeast Iowa Regional Airport",POINT(-91.1255 40.7832),698,-6
+"BRO","Brownsville South Padre Island Intl",POINT(-97.425861 25.906833),22,-6
+"BRW","Wiley Post Will Rogers Mem",POINT(-156.766003 71.285446),44,-9
+"BSF","Bradshaw Aaf",POINT(-155.553717 19.760056),6190,-10
+"BTI","Barter Island Lrrs",POINT(-143.581867 70.133989),2,-9
+"BTM","Bert Mooney Airport",POINT(-112.497472 45.954806),5550,-7
+"BTR","Baton Rouge Metro Ryan Fld",POINT(-91.149639 30.533167),70,-6
+"BTT","Bettles",POINT(-151.529056 66.913944),644,-9
+"BTV","Burlington Intl",POINT(-73.153278 44.471861),335,-5
+"BUF","Buffalo Niagara Intl",POINT(-78.732167 42.940525),724,-5
+"BUR","Bob Hope",POINT(-118.358667 34.200667),778,-8
+"BUU","Municipal Airport",POINT(-88.3046825 42.6907171),780,-6
+"BUY","Burlington-Alamance Regional Airport",POINT(-79.4748892 36.0485433),617,-5
+"BVY","Beverly Municipal Airport",POINT(-70.9161444 42.584141),107,-5
+"BWD","KBWD",POINT(-98.9565 31.7936111),1387,-6
+"BWG","Bowling Green-Warren County Regional Airport",POINT(-86.4196667 36.9645278),547,-6
+"BWI","Baltimore Washington Intl",POINT(-76.668333 39.175361),146,-5
+"BXK","Buckeye Municipal Airport",POINT(-112.68618 33.420417),1033,-7
+"BXS","Borrego Valley Airport",POINT(-116.3209722 33.2590278),520,-8
+"BYH","Arkansas Intl",POINT(-89.943956 35.964347),254,-6
+"BYS","Bicycle Lake Aaf",POINT(-116.630031 35.280531),2350,-8
+"BYW","Blakely Island Airport",POINT(-122.80243 48.56025),0,-8
+"BZN","Gallatin Field",POINT(-111.160151 45.777643),4500,-7
+"C02","Grand Geneva Resort Airport",POINT(-88.3895833 42.6149167),835,-6
+"C16","Frasca Field",POINT(-88.200197 40.144979),735,-6
+"C47","Portage Municipal Airport",POINT(-89.4828607 43.5603136),825,-6
+"C65","Plymouth Municipal Airport",POINT(-86.3002574 41.3651307),800,-5
+"C89","Sylvania Airport",POINT(-87.9589722 42.70325),785,-6
+"C91","Dowagiac Municipal Airport",POINT(-86.1280125 41.9929342),748,-5
+"CAE","Columbia Metropolitan",POINT(-81.119528 33.938833),236,-5
+"CAK","Akron Canton Regional Airport",POINT(-81.4421944 40.9160833),1228,-5
+"CAR","Caribou Muni",POINT(-68.017917 46.8715),626,-5
+"CBE","Greater Cumberland Rgnl.",POINT(-78.760556 39.615278),775,-5
+"CBM","Columbus Afb",POINT(-88.443833 33.643833),219,-6
+"CCO","Coweta County Airport",POINT(-84.7697554 33.3115656),970,-5
+"CCR","Buchanan Field Airport",POINT(-122.0568889 37.9896667),26,-8
+"CDB","Cold Bay",POINT(-162.725436 55.206061),96,-9
+"CDC","Cedar City Rgnl",POINT(-113.098847 37.700967),5622,-7
+"CDI","Cambridge Municipal Airport",POINT(-81.5775833 39.9750278),799,-5
+"CDK","CedarKey",POINT(-83.0504722 29.1342222),11,-5
+"CDN","Woodward Field",POINT(-80.5648611 34.2835833),302,-5
+"CDR","Chadron Municipal Airport",POINT(-103.095556 42.8375),3297,-7
+"CDS","Childress Muni",POINT(-100.287992 34.433781),1954,-6
+"CDV","Merle K Mudhole Smith",POINT(-145.477556 60.491778),48,-9
+"CDW","Caldwell Essex County Airport",POINT(-74.2813611 40.8752222),172,-5
+"CEC","Del Norte County Airport",POINT(-124.237 41.7802),57,-8
+"CEF","Westover Arb Metropolitan",POINT(-72.534783 42.194014),241,-5
+"CEM","Central Airport",POINT(-144.780833 65.573889),937,-9
+"CEU","Clemson",POINT(-82.8858889 34.6722222),891,-5
+"CEW","Bob Sikes",POINT(-86.522111 30.778833),213,-6
+"CEZ","Cortez Muni",POINT(-108.628056 37.303),5918,-7
+"CFD","Coulter Fld",POINT(-96.331361 30.715694),367,-6
+"CGA","Craig Seaplane Base",POINT(-133.147778 55.478889),0,-9
+"CGC","Crystal River",POINT(-82.5741111 28.8676111),9,-5
+"CGF","Cuyahoga County",POINT(-81.4863555 41.565124),879,-5
+"CGI","Cape Girardeau Regional Airport",POINT(-89.5708 37.2253),342,-6
+"CGX","Meigs Field",POINT(-87.609722 41.860278),585,-6
+"CGZ","Casa Grande Municipal Airport",POINT(-111.766832 32.954889),1464,-7
+"CHA","Lovell Fld",POINT(-85.203808 35.035278),683,-5
+"CHI","All Airports",POINT(-87.631667 41.883611),596,-6
+"CHO","Charlottesville-Albemarle",POINT(-78.452861 38.138639),639,-5
+"CHS","Charleston Afb Intl",POINT(-80.040528 32.898647),45,-5
+"CHU","Chuathbaluk Airport",POINT(-159.215556 61.579167),243,-9
+"CIC","Chico Muni",POINT(-121.858422 39.795383),238,-8
+"CID","Cedar Rapids",POINT(-91.710806 41.884694),869,-6
+"CIK","Chalkyitsik Airport",POINT(-143.74 66.645),544,-9
+"CIL","Council Airport",POINT(-163.703333 64.897778),85,-9
+"CIU","Chippewa County International Airport",POINT(-84.4724 46.2508),800,-5
+"CKB","Harrison Marion Regional Airport",POINT(-80.2281 39.2966),1217,-5
+"CKD","Crooked Creek Airport",POINT(-158.135 61.867778),178,-9
+"CKF","Crisp County Cordele Airport",POINT(-83.7739167 31.9888333),310,-5
+"CKV","Clarksville-Montgomery County Regional Airport",POINT(-87.415 36.621944),550,-6
+"CLC","Clear Lake Metroport",POINT(-95.137497 29.5569),35,-6
+"CLD","McClellan-Palomar Airport",POINT(-117.1648 33.0742),328,-8
+"CLE","Cleveland Hopkins Intl",POINT(-81.849794 41.411689),791,-5
+"CLL","Easterwood Fld",POINT(-96.363833 30.588583),321,-6
+"CLM","William R Fairchild International Airport",POINT(-123.5 48.1202),291,-8
+"CLS","Chehalis-Centralia",POINT(-122.5897 46.4062),177,-8
+"CLT","Charlotte Douglas Intl",POINT(-80.943139 35.214),748,-5
+"CLW","Clearwater Air Park",POINT(-82.7586667 27.9764722),70,-5
+"CMH","Port Columbus Intl",POINT(-82.891889 39.997972),815,-5
+"CMI","Champaign",POINT(-88.278056 40.03925),754,-6
+"CMX","Houghton County Memorial Airport",POINT(-88.4891 47.1684),1095,-5
+"CNM","Cavern City Air Terminal",POINT(-104.263278 32.337472),3295,-7
+"CNW","Tstc Waco",POINT(-97.074139 31.637831),470,-6
+"CNY","Canyonlands Field",POINT(-109.754722 38.755),4555,-7
+"COD","Yellowstone Rgnl",POINT(-109.023806 44.520194),5102,-7
+"COE","Pappy Boyington",POINT(-116.8195833 47.7743056),2320,-8
+"COF","Patrick Afb",POINT(-80.610125 28.234922),8,-5
+"COI","Merritt Island Airport",POINT(-80.6854722 28.3416111),6,-5
+"CON","Concord Municipal",POINT(-71.50233 43.20267),342,-5
+"COS","City Of Colorado Springs Muni",POINT(-104.700778 38.805805),6187,-7
+"COT","Cotulla Lasalle Co",POINT(-99.220294 28.456694),474,-6
+"COU","Columbia Rgnl",POINT(-92.219631 38.818094),889,-6
+"CPR","Natrona Co Intl",POINT(-106.464417 42.908),5347,-7
+"CPS","St. Louis Downtown Airport",POINT(-90.1562211 38.5707244),413,-6
+"CRE","Grand Strand Airport",POINT(-78.7239444 33.81175),31,-5
+"CRP","Corpus Christi Intl",POINT(-97.501222 27.770361),44,-6
+"CRW","Yeager",POINT(-81.593189 38.373147),981,-5
+"CSG","Columbus Metropolitan Airport",POINT(-84.9388611 32.5163333),397,-5
+"CTB","Cut Bank Muni",POINT(-112.376144 48.608353),3854,-7
+"CTH","Chester County G O Carlson Airport",POINT(-75.8654 39.9789),660,-5
+"CTJ","West Georgia Regional Airport - O V Gray Field",POINT(-85.1522641 33.6316964),1165,-5
+"CTY","Cross City",POINT(-83.10475 29.6355278),42,-5
+"CVG","Cincinnati Northern Kentucky Intl",POINT(-84.667822 39.048836),896,-5
+"CVN","Clovis Muni",POINT(-103.079278 34.425139),4216,-7
+"CVO","Corvallis Muni",POINT(-123.2915 44.5067),250,-8
+"CVS","Cannon Afb",POINT(-103.322147 34.382775),4295,-7
+"CVX","Charlevoix Municipal Airport",POINT(-85.2753333 45.3047778),669,-5
+"CWA","Central Wisconsin",POINT(-89.646635 44.772726),840,-6
+"CWI","Clinton Municipal",POINT(-90.3289722 41.83075),708,-6
+"CWT","Chatsworth Station",POINT(-118.598889 34.256944),978,-8
+"CXF","Coldfoot Airport",POINT(-150.176111 67.251389),1014,-9
+"CXL","Calexico Intl",POINT(-115.51333 32.669502),4,-8
+"CXO","Lone Star Executive",POINT(-95.414467 30.351833),245,-6
+"CXY","Capital City Airport",POINT(-76.8513611 40.2171389),347,-5
+"CYF","Chefornak Airport",POINT(-164.285556 60.149167),40,-9
+"CYM","Chatham Seaplane Base",POINT(-134.946111 57.515),0,-9
+"CYS","Cheyenne Rgnl Jerry Olson Fld",POINT(-104.811839 41.155722),6156,-7
+"CYT","Yakataga Airport",POINT(-142.493611 60.081901),12,-9
+"CZF","Cape Romanzof Lrrs",POINT(-166.038747 61.780297),457,-9
+"CZG","Tri-Cities",POINT(-76.0578 42.0471),833,-5
+"CZN","Chisana Airport",POINT(-142.048333 62.071111),1011,-9
+"DAB","Daytona Beach Intl",POINT(-81.058056 29.179917),34,-5
+"DAL","Dallas Love Fld",POINT(-96.851778 32.847111),487,-6
+"DAW","Skyhaven Airport",POINT(-70.9292778 43.2840556),321,-5
+"DAY","James M Cox Dayton Intl",POINT(-84.219375 39.902375),1009,-5
+"DBN","W H Barron Field",POINT(-82.591 32.3388),311,-5
+"DBQ","Dubuque Rgnl",POINT(-90.709472 42.402),1076,-6
+"DCA","Ronald Reagan Washington Natl",POINT(-77.037722 38.852083),15,-5
+"DDC","Dodge City Regional Airport",POINT(-99.9656 37.7634),2594,-6
+"DEC","Decatur",POINT(-88.865689 39.834564),682,-6
+"DEN","Denver Intl",POINT(-104.673178 39.861656),5431,-7
+"DET","Coleman A Young Muni",POINT(-83.009861 42.409195),626,-5
+"DFW","Dallas Fort Worth Intl",POINT(-97.037997 32.896828),607,-6
+"DGL","Douglas Municipal Airport",POINT(-109.5064544 31.3426028),4173,-7
+"DHB","Deer Harbor Seaplane",POINT(-123.00596 48.618397),0,-8
+"DHN","Dothan Rgnl",POINT(-85.449628 31.321339),401,-6
+"DHT","Dalhart Muni",POINT(-102.547278 36.022586),3991,-6
+"DIK","Dickinson Theodore Roosevelt Regional Airport",POINT(-102.801944 46.7975),2592,-7
+"DKB","De Kalb Taylor Municipal Airport",POINT(-88.7056864 41.9338342),914,-6
+"DKK","Chautauqua County-Dunkirk Airport",POINT(-79.2720417 42.4933353),693,-5
+"DKX","Knoxville Downtown Island Airport",POINT(-83.8736667 35.9638333),833,-5
+"DLF","Laughlin Afb",POINT(-100.777975 29.359486),1082,-6
+"DLG","Dillingham",POINT(-158.5055 59.044667),74,-9
+"DLH","Duluth Intl",POINT(-92.193649 46.842091),1428,-6
+"DLL","Baraboo Wisconsin Dells Airport",POINT(-89.7709266 43.5217843),979,-6
+"DMA","Davis Monthan Afb",POINT(-110.883144 32.166467),2704,-7
+"DNL","Daniel Field Airport",POINT(-82.0393808 33.4665028),423,-5
+"DNN","Dalton Municipal Airport",POINT(-84.87025 34.7229444),709,-5
+"DNV","Vermilion Regional",POINT(-87.5955278 40.1996944),696,-6
+"DOV","Dover Afb",POINT(-75.465958 39.129539),28,-5
+"DPA","Dupage",POINT(-88.248611 41.907778),758,-6
+"DQH","Douglas Municipal Airport",POINT(-82.8605664 31.4767385),257,-5
+"DRG","Deering Airport",POINT(-162.766 66.0696),21,-9
+"DRI","Beauregard Rgnl",POINT(-93.339917 30.831722),202,-6
+"DRM","Drummond Island Airport",POINT(-83.7439342 46.0093114),668,-5
+"DRO","Durango La Plata Co",POINT(-107.75377 37.151516),6685,-7
+"DRT","Del Rio Intl",POINT(-100.927158 29.374208),1002,-6
+"DSM","Des Moines Intl",POINT(-93.663083 41.533972),958,-6
+"DTA","Delta Municipal Airport",POINT(-112.5077147 39.3806386),4759,-7
+"DTS","Destin",POINT(-86.4714772 30.4000611),23,-6
+"DTW","Detroit Metro Wayne Co",POINT(-83.353389 42.212444),645,-5
+"DUC","Halliburton Field Airport",POINT(-97.9598611 34.4713056),1114,-6
+"DUG","Bisbee Douglas Intl",POINT(-109.603667 31.469028),4154,-7
+"DUJ","DuBois Regional Airport",POINT(-78.8987 41.1783),1817,-5
+"DUT","Unalaska",POINT(-166.5435 53.900139),22,-9
+"DVL","Devils Lake Regional Airport",POINT(-98.908611 48.114444),1445,-6
+"DVT","Deer Valley Municipal Airport",POINT(112.457 33.4117),1478,8
+"DWA","Yolo County Airport",POINT(-121.8569444 38.5793889),100,-8
+"DWH","David Wayne Hooks Field",POINT(-95.554276 30.063746),152,-6
+"DWS","Orlando",POINT(-81.57 28.398),340,-5
+"DXR","Danbury Municipal Airport",POINT(-73.4821906 41.3715353),458,-5
+"DYS","Dyess Afb",POINT(-99.8546 32.420756),1789,-6
+"E25","Wickenburg Municipal Airport",POINT(-112.7990036 33.96889877),2377,-7
+"E51","Bagdad Airport",POINT(-113.170195 34.5958528),4183,-7
+"E55","Ocean Ridge Airport",POINT(-123.5306389 38.8016111),940,-8
+"E63","Gila Bend Municipal Airport",POINT(-112.673636 32.960169),789,-7
+"E91","Chinle Municipal Airport",POINT(-109.5754222 36.1108806),5547,-7
+"EAA","Eagle Airport",POINT(-141.149722 64.778056),908,-9
+"EAR","Kearney Municipal Airport",POINT(-99.0068 40.727),2131,-6
+"EAT","Pangborn Field",POINT(-120.206 47.398),1249,-8
+"EAU","Chippewa Valley Regional Airport",POINT(-91.4843 44.8658),913,-6
+"ECA","Iosco County",POINT(-83.422 44.311),606,-5
+"ECG","Elizabeth City Cgas Rgnl",POINT(-76.174572 36.260581),12,-5
+"ECP","Panama City-NW Florida Bea.",POINT(-85.7973 30.3417),69,-6
+"EDF","Elmendorf Afb",POINT(-149.806503 61.250986),212,-9
+"EDW","Edwards Afb",POINT(-117.883739 34.905417),2302,-8
+"EEK","Eek Airport",POINT(-162.043889 60.213611),15,-9
+"EEN","Dillant Hopkins Airport",POINT(42.898333 72.270833),149,-5
+"EET","Shelby County Airport",POINT(-86.7832222 33.1777778),586,-6
+"EFD","Ellington Fld",POINT(-95.15875 29.607333),32,-6
+"EGA","Eagle County Airport",POINT(-106.9159347 39.6427611),6548,-7
+"EGE","Eagle Co Rgnl",POINT(-106.917694 39.642556),6540,-7
+"EGT","Wellington Municipal",POINT(-97.423225 37.39411),1277,-6
+"EGV","Eagle River",POINT(-89.268283 45.932333),1642,-6
+"EGX","Egegik Airport",POINT(-157.375556 58.185556),92,-9
+"EHM","Cape Newenham Lrrs",POINT(-162.062778 58.646428),541,-9
+"EIL","Eielson Afb",POINT(-147.1015 64.665667),548,-9
+"EKI","Elkhart Municipal",POINT(-86.003333 41.719444),778,-5
+"EKN","Elkins Randolph Co Jennings Randolph",POINT(-79.857139 38.889444),1987,-5
+"EKO","Elko Regional Airport",POINT(-115.792 40.8249),5140,-8
+"EKY","Bessemer",POINT(-86.5558 33.1876),700,-6
+"ELD","South Arkansas Rgnl At Goodwin Fld",POINT(-92.813278 33.220972),277,-6
+"ELI","Elim Airport",POINT(-162.270556 64.615),162,-9
+"ELM","Elmira Corning Rgnl",POINT(-76.891611 42.159889),954,-5
+"ELP","El Paso Intl",POINT(-106.377583 31.80725),3958,-7
+"ELV","Elfin Cove Seaplane Base",POINT(-136.3475 58.195278),0,-9
+"ELY","Ely Airport",POINT(-114.841944 39.299722),6259,-8
+"EMK","Emmonak Airport",POINT(-164.490833 62.786111),13,-9
+"EMP","Emporia Municipal Airport",POINT(-96.1912 38.3321),1208,-6
+"ENA","Kenai Muni",POINT(-151.245 60.573111),99,-9
+"END","Vance Afb",POINT(-97.9165 36.339167),1307,-6
+"ENV","Wendover",POINT(-114.030889 40.718694),4237,-7
+"ENW","Kenosha Regional Airport",POINT(-87.9278056 42.5956944),742,-6
+"EOK","Keokuk Municipal Airport",POINT(-91.4285011 40.4599078),671,-6
+"EPM","Eastport Municipal Airport",POINT(-67.0126944 44.9101111),45,-5
+"EQY","Monroe Reqional Airport",POINT(-80.62001 35.01833),679,-5
+"ERI","Erie Intl Tom Ridge Fld",POINT(-80.176217 42.082022),733,-5
+"ERV","Kerrville Municipal Airport",POINT(-99.0854722 29.9766667),1617,-6
+"ERY","Luce County Airport",POINT(-85.457298 46.311199),869,-5
+"ESC","Delta County Airport",POINT(-87.093611 45.722778),609,-5
+"ESD","Orcas Island Airport",POINT(-122.910556 48.708056),31,-8
+"ESF","Esler Rgnl",POINT(-92.295772 31.394903),112,-6
+"ESN","Easton-Newnam Field Airport",POINT(-76.069 38.8041667),72,-5
+"EUF","Weedon Field",POINT(-85.0774 31.5708),285,-6
+"EUG","Mahlon Sweet Fld",POINT(-123.211972 44.124583),374,-8
+"EVV","Evansville Regional",POINT(-87.532364 38.036997),418,-6
+"EVW","Evanston-Uinta CO Burns Fld",POINT(-111.0208 41.1649),7143,-7
+"EWB","New Bedford Regional Airport",POINT(-70.9569 41.6761),80,-5
+"EWK","Newton City-County Airport",POINT(-97.2752278 38.0570785),1533,-6
+"EWN","Craven Co Rgnl",POINT(-77.042944 35.072972),18,-5
+"EWR","Newark Liberty Intl",POINT(-74.168667 40.6925),18,-5
+"EXI","Excursion Inlet Seaplane Base",POINT(-135.449167 58.420556),0,-9
+"EYW","Key West Intl",POINT(-81.759556 24.556111),3,-5
+"F57","Seaplane Base",POINT(-81.7628056 28.0575),140,-5
+"FAF","Felker Aaf",POINT(-76.608841 37.1325),12,-5
+"FAI","Fairbanks Intl",POINT(-147.856267 64.815114),434,-9
+"FAR","Hector International Airport",POINT(-96.8157639 46.92065),902,-6
+"FAT","Fresno Yosemite Intl",POINT(-119.71814 36.776194),336,-8
+"FAY","Fayetteville Regional Grannis Field",POINT(-78.8803 34.9912),189,-5
+"FBG","Fredericksburg Amtrak Station",POINT(-77.456875 38.298416),130,-5
+"FBK","Ladd Aaf",POINT(-147.614444 64.8375),454,-9
+"FBR","Fort Bridger",POINT(-110.2436 41.236),7038,-7
+"FBS","Friday Harbor Seaplane Base",POINT(-123.009722 48.537222),0,-8
+"FCA","Glacier Park Intl",POINT(-114.256 48.310472),2977,-7
+"FCM","Flying Cloud Airport",POINT(-93.2726 44.4938),906,-6
+"FCS","Butts Aaf",POINT(-104.756581 38.678394),5838,-7
+"FDW","Fairfield County Airport",POINT(-81.108806 34.315472),577,-5
+"FDY","Findlay Airport",POINT(-83.6686111 41.0120278),819,-5
+"FFA","First Flight Airport",POINT(-75.67 36.02),13,-5
+"FFC","Atlanta Regional Airport - Falcon Field",POINT(-84.5718333 33.35725),808,-5
+"FFO","Wright Patterson Afb",POINT(-84.048332 39.826111),823,-5
+"FFT","Capital City Airport",POINT(-84.9061389 38.1819722),812,-5
+"FFZ","Mesa Falcon Field",POINT(-111.727996826172 33.4608001708984),1394,-7
+"FHU","Sierra Vista Muni Libby Aaf",POINT(-110.344389 31.588472),4719,-7
+"FIT","Fitchburg Municipal Airport",POINT(-71.7589722 42.5541111),348,-5
+"FKL","Franklin",POINT(-79.860362 41.377874),1540,-5
+"FLD","Fond Du Lac County Airport",POINT(-88.4884167 43.7711667),808,-6
+"FLG","Flagstaff Pulliam Airport",POINT(-111.6692392 35.140318),7015,-7
+"FLL","Fort Lauderdale Hollywood Intl",POINT(-80.15275 26.072583),9,-5
+"FLO","Florence Rgnl",POINT(-79.723889 34.185361),146,-5
+"FLV","Sherman Aaf",POINT(-94.914686 39.368332),772,-6
+"FME","Tipton",POINT(-76.759414 39.085386),150,-5
+"FMH","Otis Angb",POINT(-70.521417 41.658439),131,-5
+"FMN","Four Corners Rgnl",POINT(-108.229944 36.74125),5506,-7
+"FMY","Page Fld",POINT(-81.86325 26.586611),17,-5
+"FNL","Fort Collins Loveland Muni",POINT(-105.011336 40.451828),5016,-7
+"FNR","Funter Bay Seaplane Base",POINT(-134.897778 58.254444),0,-9
+"FNT","Bishop International",POINT(-83.743629 42.965424),782,-5
+"FOD","Fort Dodge Rgnl",POINT(-94.191842 42.5512),1157,-6
+"FOE","Forbes Fld",POINT(-95.663611 38.950944),1078,-6
+"FOK","Francis S Gabreski",POINT(-72.631789 40.843656),67,-5
+"FRD","Friday Harbor Airport",POINT(-123.024444 48.521944),113,-8
+"FRI","Marshall Aaf",POINT(-96.764453 39.055275),1063,-6
+"FRN","Bryant Ahp",POINT(-149.653119 61.266381),378,-9
+"FRP","St Lucie County International Airport",POINT(-80.372638 27.497472),23,-5
+"FSD","Sioux Falls",POINT(-96.741914 43.582014),1429,-6
+"FSI","Henry Post Aaf",POINT(-98.402167 34.649833),1189,-6
+"FSM","Fort Smith Rgnl",POINT(-94.367444 35.336583),469,-6
+"FST","Fort Stockton Pecos Co",POINT(-102.916139 30.915667),3011,-6
+"FTK","Godman Aaf",POINT(-85.972106 37.907058),756,-5
+"FTW","Fort Worth Meacham Intl",POINT(-97.362444 32.819778),710,-6
+"FTY","Fulton County Airport Brown Field",POINT(-84.5214 33.7791),841,-5
+"FUL","Fullerton Municipal Airport",POINT(-117.584722 33.521925),96,-8
+"FWA","Fort Wayne",POINT(-85.195139 40.978472),815,-5
+"FXE","Fort Lauderdale Executive",POINT(-80.170706 26.197281),13,-5
+"FYU","Fort Yukon",POINT(-145.250417 66.571492),433,-9
+"FYV","Drake Fld",POINT(-94.170059 36.005094),1251,-6
+"FZG","Fitzgerald Municipal Airport",POINT(-83.2709036 31.6839046),365,-5
+"FZI","Fostoria Metropolitan Airport",POINT(-83.3930833 41.1908333),752,-5
+"GAD","Northeast Alabama Regional Airport",POINT(-86.0890834 33.9726489),569,-6
+"GAI","Montgomery County Airpark",POINT(-77.09576 39.1006),0,-5
+"GAL","Edward G Pitka Sr",POINT(-156.937417 64.736178),152,-9
+"GAM","Gambell Airport",POINT(-171.733 63.7668),27,-9
+"GBN","Great Bend Municipal",POINT(-98.859167 38.344167),1887,-6
+"GCC","Gillette-Campbell County Airport",POINT(-105.5393611 44.3489167),4365,-7
+"GCK","Garden City Rgnl",POINT(-100.724417 37.927528),2891,-6
+"GCN","Grand Canyon National Park Airport",POINT(-112.1469722 35.9523611),6609,-7
+"GCW","Grand Canyon West Airport",POINT(-113.4859 35.5925),4825,-7
+"GDV","Dawson Community Airport",POINT(-104.807222 47.138611),749,-7
+"GDW","Gladwin Zettel Memorial Airport",POINT(-84.47502 43.9705893),774,-5
+"GED","Sussex Co",POINT(-75.358889 38.689194),50,-5
+"GEG","Spokane Intl",POINT(-117.533833 47.619861),2376,-8
+"GEU","Glendale Municipal Airport",POINT(-112.2951389 33.5269167),1071,-7
+"GFK","Grand Forks Intl",POINT(-97.176111 47.949256),845,-6
+"GFL","Floyd Bennett Memorial Airport",POINT(-73.610305 43.341222),328,-5
+"GGE","Georgetown County Airport",POINT(-79.3203139 33.3114018),40,-5
+"GGG","East Texas Rgnl",POINT(-94.711486 32.384014),365,-6
+"GGW","Wokal Field Glasgow International Airport",POINT(-106.615 48.2125),2296,-7
+"GHG","Marshfield Municipal Airport",POINT(-70.6721389 42.09825),9,-5
+"GIF","Gilbert Airport",POINT(-81.753333 28.062778),145,-5
+"GJT","Grand Junction Regional",POINT(-108.526735 39.122413),4858,-7
+"GKN","Gulkana",POINT(-145.456639 62.154888),1580,-9
+"GKY","Arlington Municipal",POINT(-97.0942778 32.6638611),628,-6
+"GLD","Renner Fld",POINT(-101.698992 39.370621),3656,-7
+"GLH","Mid Delta Regional Airport",POINT(-90.9856 33.4829),131,-6
+"GLS","Scholes Intl At Galveston",POINT(-94.860406 29.265322),6,-6
+"GLV","Golovin Airport",POINT(-163.007222 64.550556),59,-9
+"GNT","Grants Milan Muni",POINT(-107.901989 35.167286),6537,-7
+"GNU","Goodnews Airport",POINT(-161.5775 59.1175),15,-9
+"GNV","Gainesville Rgnl",POINT(-82.271778 29.690056),152,-5
+"GON","Groton New London",POINT(-72.045139 41.330056),9,-5
+"GPT","Gulfport-Biloxi",POINT(-89.070111 30.407278),28,-6
+"GPZ","Grand Rapids Itasca County",POINT(-93.509722 47.211111),413,-6
+"GQQ","Galion Municipal Airport",POINT(-82.7238056 40.7533889),1224,-5
+"GRB","Austin Straubel Intl",POINT(-88.129589 44.485072),695,-6
+"GRF","Gray Aaf",POINT(-122.580783 47.079217),302,-8
+"GRI","Central Nebraska Regional Airport",POINT(-98.3096 40.9675),1847,-6
+"GRK","Robert Gray Aaf",POINT(-97.828917 31.06725),1015,-6
+"GRM","Grand Marais Cook County Airport",POINT(-90.3829444 47.8383333),1799,-6
+"GRR","Gerald R Ford Intl",POINT(-85.522806 42.880833),794,-5
+"GSB","Seymour Johnson Afb",POINT(-77.960589 35.339383),110,-5
+"GSO","Piedmont Triad",POINT(-79.937306 36.09775),925,-5
+"GSP","Greenville-Spartanburg International",POINT(-82.218889 34.895556),964,-5
+"GST","Gustavus Airport",POINT(-135.707 58.4253),34,-9
+"GTB","Wheeler Sack Aaf",POINT(-75.719458 44.055619),690,-5
+"GTF","Great Falls Intl",POINT(-111.370689 47.482),3677,-7
+"GTR","Golden Triangle Regional Airport",POINT(-88.591361 33.450333),264,-6
+"GTU","Georgetown Municipal Airport",POINT(-97.6793837 30.678809),790,-6
+"GUC","Gunnison - Crested Butte",POINT(-106.933056 38.533889),7678,-7
+"GUP","Gallup Muni",POINT(-108.789308 35.511058),6472,-7
+"GUS","Grissom Arb",POINT(-86.152119 40.648094),812,-5
+"GVL","Lee Gilmer Memorial Airport",POINT(-83.8302233 34.272627),1276,-5
+"GVQ","Genesee County Airport",POINT(-78.1696667 43.03175),914,-5
+"GVT","Majors",POINT(-96.065333 33.067839),535,-6
+"GWO","Greenwood Leflore",POINT(-90.084706 33.494328),162,-6
+"GYY","Gary Chicago International Airport",POINT(-87.4128 41.6163),591,-6
+"HBG","Hattiesburg Bobby L. Chain Municipal Airport",POINT(-89.2528889 31.2649444),151,-6
+"HBR","Hobart Muni",POINT(-99.051353 34.991308),1564,-6
+"HCC","Columbia County",POINT(-73.7103 42.2913),198,-5
+"HCR","Holy Cross Airport",POINT(-159.775 62.1883),70,-9
+"HDH","Dillingham",POINT(-158.197281 21.579475),14,-10
+"HDI","Hardwick Field Airport",POINT(-84.832369 35.2199994),874,-5
+"HDN","Yampa Valley",POINT(-107.21766 40.481181),6602,-7
+"HDO","Hondo Municipal Airport",POINT(-99.1775 29.3591),930,-6
+"HFD","Hartford Brainard",POINT(-72.649444 41.736722),18,-5
+"HGR","Hagerstown Regional Richard A Henson Field",POINT(-77.7295 39.7079),704,-5
+"HHH","Hilton Head",POINT(-80.752 32.216),10,-5
+"HHI","Wheeler Aaf",POINT(-158.039667 21.4835),837,-10
+"HHR","Jack Northrop Fld Hawthorne Muni",POINT(-118.335186 33.922839),66,-8
+"HIB","Chisholm Hibbing",POINT(-92.838994 47.3866),1353,-6
+"HIF","Hill Afb",POINT(-111.973039 41.123939),4789,-7
+"HII","Lake Havasu City Airport",POINT(-114.3582778 34.5711111),783,-7
+"HIO","Portland Hillsboro",POINT(-122.949825 45.540394),204,-8
+"HKB","Healy River Airport",POINT(-148.968889 63.8675),1263,-9
+"HKY","Hickory Rgnl",POINT(-81.38955 35.741147),1189,-5
+"HLG","Wheeling Ohio County Airport",POINT(-80.6463 40.175),1195,-5
+"HLN","Helena Rgnl",POINT(-111.98275 46.606806),3877,-7
+"HLR","Hood Aaf",POINT(-97.714469 31.138731),924,-6
+"HMN","Holloman Afb",POINT(-106.106525 32.852519),4093,-7
+"HNH","Hoonah Airport",POINT(-135.409722 58.096111),19,-9
+"HNL","Honolulu Intl",POINT(-157.922428 21.318681),13,-10
+"HNM","Hana",POINT(-156.014439 20.795636),78,-10
+"HNS","Haines Airport",POINT(-135.524 59.2438),15,-9
+"HOB","Lea Co Rgnl",POINT(-103.217028 32.687528),3661,-7
+"HOM","Homer",POINT(-151.476583 59.645556),84,-9
+"HON","Huron Rgnl",POINT(-98.228542 44.3852),1289,-6
+"HOP","Campbell Aaf",POINT(-87.496183 36.668567),573,-6
+"HOT","Memorial Field",POINT(-93.0962 34.478),540,-6
+"HOU","William P Hobby",POINT(-95.278889 29.645419),46,-6
+"HPB","Hooper Bay Airport",POINT(-166.147 61.5239),7,-9
+"HPN","Westchester Co",POINT(-73.707575 41.066959),439,-5
+"HQM","Bowerman Field",POINT(-123.9365556 46.9711944),18,-8
+"HQU","McDuffie County Airport",POINT(-82.5169509 33.5297315),501,-5
+"HRL","Valley Intl",POINT(-97.654389 26.2285),36,-6
+"HRO","Boone Co",POINT(-93.154728 36.261519),1365,-6
+"HRT","Hurlburt Fld",POINT(-86.689278 30.427803),38,-6
+"HSH","Henderson Executive Airport",POINT(-115.134444 35.972778),1881,-8
+"HSL","Huslia Airport",POINT(-156.351389 65.697778),213,-9
+"HST","Homestead Arb",POINT(-80.383567 25.48855),6,-5
+"HSV","Huntsville International Airport-Carl T Jones Field",POINT(-86.7750556 34.6371944),629,-6
+"HTL","Roscommon Co",POINT(-84.671112 44.359806),1150,-5
+"HTS","Tri State Milton J Ferguson Field",POINT(-82.558 38.3667),828,-5
+"HUA","Redstone Aaf",POINT(-86.684781 34.678653),685,-6
+"HUF","Terre Haute Intl Hulman Fld",POINT(-87.307561 39.451464),589,-5
+"HUL","Houlton Intl",POINT(-67.792056 46.123083),489,-5
+"HUS","Hughes Airport",POINT(-154.264722 66.039167),299,-9
+"HUT","Hutchinson Municipal Airport",POINT(-97.8606 38.0655),1543,-6
+"HVN","Tweed-New Haven Airport",POINT(-72.886806 41.26375),14,-5
+"HVR","Havre City Co",POINT(-109.762342 48.542983),2590,-7
+"HWD","Hayward Executive Airport",POINT(-122.121666666667 37.6588888888889),52,-8
+"HWO","North Perry",POINT(-80.240722 26.001222),8,-5
+"HXD","Hilton Head Airport",POINT(-80.6974722 32.2243611),19,-5
+"HYA","Barnstable Muni Boardman Polando Fld",POINT(-70.280356 41.669336),55,-5
+"HYG","Hydaburg Seaplane Base",POINT(-132.828333 55.206389),0,-9
+"HYL","Hollis Seaplane Base",POINT(-132.646111 55.481667),0,-9
+"HYS","Hays Regional Airport",POINT(-99.2732 38.8422),1998,-6
+"HZL","Hazleton Municipal",POINT(-76.0025 40.989167),1603,-5
+"IAB","Mc Connell Afb",POINT(-97.268192 37.621853),1371,-6
+"IAD","Washington Dulles Intl",POINT(-77.455811 38.944533),313,-5
+"IAG","Niagara Falls Intl",POINT(-78.946194 43.107333),589,-5
+"IAH","George Bush Intercontinental",POINT(-95.341442 29.984433),97,-6
+"IAN","Bob Baker Memorial Airport",POINT(-160.436667 66.975833),166,-9
+"ICT","Wichita Mid Continent",POINT(-97.433056 37.649944),1333,-6
+"ICY","Icy Bay Airport",POINT(-141.661667 59.968889),50,-9
+"IDA","Idaho Falls Rgnl",POINT(-112.07075 43.514556),4744,-7
+"IDL","Idlewild Intl",POINT(-73.778924 40.639751),13,-5
+"IFP","Laughlin-Bullhead Intl",POINT(-114.56 35.1574),695,-7
+"IGG","Igiugig Airport",POINT(-155.902 59.324),90,-9
+"IGM","Kingman Airport",POINT(-113.938 35.2595),3449,-7
+"IGQ","Lansing Municipal",POINT(-87.5295278 41.5349167),620,-6
+"IJD","Windham Airport",POINT(-72.1802222 41.7440278),246,-5
+"IKK","Greater Kankakee",POINT(-87.846278 41.071389),630,-6
+"IKO","Nikolski Air Station",POINT(-168.848889 52.941667),77,-9
+"IKR","Kirtland Air Force Base",POINT(-106.609194 35.040222),5355,-7
+"IKV","Ankeny Regl Airport",POINT(-93.566389 41.691389),910,-6
+"ILG","New Castle",POINT(-75.606528 39.678722),79,-5
+"ILI","Iliamna",POINT(-154.910961 59.754356),186,-9
+"ILM","Wilmington Intl",POINT(-77.902569 34.270615),32,-5
+"ILN","Wilmington Airborne Airpark",POINT(-83.792118 39.42792),1077,-5
+"IMM","Immokalee",POINT(-81.401389 26.433889),37,-5
+"IMT","Ford Airport",POINT(-88.1145556 45.8183611),1182,-6
+"IND","Indianapolis Intl",POINT(-86.294383 39.717331),797,-5
+"INJ","Hillsboro Muni",POINT(-97.097228 32.083486),685,-6
+"INK","Winkler Co",POINT(-103.201361 31.779628),2822,-6
+"INL","Falls Intl",POINT(-93.403067 48.566186),1185,-6
+"INS","Creech Afb",POINT(-115.673353 36.587183),3133,-8
+"INT","Smith Reynolds",POINT(-80.222 36.133722),969,-5
+"INW","Winslow-Lindbergh Regional Airport",POINT(-110.7225278 35.0219167),4941,-7
+"IOW","Iowa City Municipal Airport",POINT(-91.546503 41.639244),668,-6
+"IPL","Imperial Co",POINT(-115.578744 32.834219),-54,-8
+"IPT","Williamsport Rgnl",POINT(-76.921094 41.241836),529,-5
+"IRC","Circle City Airport",POINT(-144.076111 65.827778),613,-9
+"IRK","Kirksville Regional Airport",POINT(-92.5449 40.0935),966,-6
+"ISM","Kissimmee Gateway Airport",POINT(-81.437083 28.289806),82,-5
+"ISN","Sloulin Fld Intl",POINT(-103.642347 48.177939),1982,-6
+"ISO","Kinston Regional Jetport",POINT(-77.608889 35.331389),94,-5
+"ISP","Long Island Mac Arthur",POINT(-73.100222 40.79525),99,-5
+"ISW","Alexander Field South Wood County Airport",POINT(-89.8381412 44.3606456),1021,-6
+"ITH","Ithaca Tompkins Rgnl",POINT(-76.458444 42.491028),1099,-5
+"ITO","Hilo Intl",POINT(-155.048469 19.721375),38,-10
+"IWD","Gogebic Iron County Airport",POINT(-90.1313967 46.5274747),1230,-6
+"IWS","West Houston",POINT(-95.672611 29.818194),111,-6
+"IYK","Inyokern Airport",POINT(-117.829444 35.658889),2455,-8
+"IZG","Eastern Slopes Regional",POINT(-70.9478889 43.9911389),455,-5
+"JAC","Jackson Hole Airport",POINT(-110.73775 43.607333333),6451,-7
+"JAN","Jackson Evers Intl",POINT(-90.075889 32.311167),346,-6
+"JAX","Jacksonville Intl",POINT(-81.687861 30.494056),30,-5
+"JBR","Jonesboro Muni",POINT(-90.646417 35.831708),262,-6
+"JCI","New Century AirCenter Airport",POINT(-94.8903056 38.8309167),1087,-6
+"JEF","Jefferson City Memorial Airport",POINT(-92.1561 38.5912),549,-6
+"JES","Jesup-Wayne County Airport",POINT(-81.8825 31.553889),107,-5
+"JFK","John F Kennedy Intl",POINT(-73.778925 40.639751),13,-5
+"JGC","Grand Canyon Heliport",POINT(-112.13333333 35.96666666),2500,-7
+"JHM","Kapalua",POINT(-156.673031 20.962936),256,-10
+"JHW","Chautauqua County-Jamestown",POINT(-79.258056 42.153333),525,-5
+"JKA","Jack Edwards Airport",POINT(-87.6717778 30.2896389),17,-6
+"JLN","Joplin Rgnl",POINT(-94.498269 37.151814),981,-6
+"JMS","Jamestown Regional Airport",POINT(-98.6782 46.9297),1498,-6
+"JNU","Juneau Intl",POINT(-134.576278 58.354972),21,-9
+"JOT","Regional Airport",POINT(-88.175556 41.517778),582,-6
+"JRA","West 30th St. Heliport",POINT(-74.0071 40.7545),7,-5
+"JRB","Wall Street Heliport",POINT(-74.009028 40.701214),7,-5
+"JST","John Murtha Johnstown-Cambria County Airport",POINT(-78.833889 40.316111),2284,-5
+"JVL","Southern Wisconsin Regional Airport",POINT(-89.0415556 42.62025),808,-6
+"JXN","Reynolds Field",POINT(-84.460556 42.260556),1001,-5
+"JYL","Plantation Airpark",POINT(-81.5971111 32.6452778),188,-5
+"JYO","Leesburg Executive Airport",POINT(-77.558 39.078),389,-5
+"JZP","Pickens County Airport",POINT(-84.4572222 34.4534722),1535,-5
+"K03","Wainwright As",POINT(-159.86035 70.613378),35,-9
+"K27","Burrello-Mechanicville Airport",POINT(-73.66845 42.893133),195,-5
+"K83","Sabetha Municipal",POINT(-95.4677 39.5425),1330,-6
+"KAE","Kake Seaplane Base",POINT(-133.945556 56.973056),0,-9
+"KAL","Kaltag Airport",POINT(-158.741 64.3191),187,-9
+"KBC","Birch Creek Airport",POINT(-145.815319 66.256708),450,-9
+"KBW","Chignik Bay Seaplane Base",POINT(-158.401398 56.295556),0,-9
+"KCC","Coffman Cove Seaplane Base",POINT(-132.833889 56.014722),0,-9
+"KCL","Chignik Lagoon Airport",POINT(-158.534167 56.311111),25,-9
+"KCQ","Chignik Lake Airport",POINT(-158.775278 56.255),50,-9
+"KEH","Kenmore Air Harbor Inc Seaplane Base",POINT(-122.259 47.7548),14,-8
+"KEK","Ekwok Airport",POINT(-157.471111 59.356944),135,-9
+"KFP","False Pass Airport",POINT(-163.410278 54.8475),20,-9
+"KGK","Koliganek Airport",POINT(-157.259444 59.726667),269,-9
+"KGX","Grayling Airport",POINT(-160.065 62.894444),99,-9
+"KKA","Koyuk Alfred Adams Airport",POINT(-161.154167 64.939444),154,-9
+"KKB","Kitoi Bay Seaplane Base",POINT(-152.370556 58.190833),0,-9
+"KKH","Kongiganak Airport",POINT(-162.881111 59.960833),30,-9
+"KLG","Kalskag Airport",POINT(-160.341 61.5363),55,-9
+"KLL","Levelock Airport",POINT(-156.858611 59.128056),39,-9
+"KLN","Larsen Bay Airport",POINT(-153.976667 57.535),87,-9
+"KLS","Kelso Longview",POINT(-122.898389 46.118),20,-8
+"KLW","Klawock Airport",POINT(-133.076111 55.579167),80,-9
+"KMO","Manokotak Airport",POINT(-159.05 58.990278),51,-9
+"KMY","Moser Bay Seaplane Base",POINT(-154.145833 57.025556),0,-9
+"KNW","New Stuyahok Airport",POINT(-157.328 59.4499),302,-9
+"KOA","Kona Intl At Keahole",POINT(-156.045631 19.738767),47,-10
+"KOT","Kotlik Airport",POINT(-163.532778 63.030556),15,-9
+"KOY","Olga Bay Seaplane Base",POINT(-154.229722 57.161389),0,-9
+"KOZ","Ouzinkie Airport",POINT(-152.500511 57.922876),55,-9
+"KPB","Point Baker Seaplane Base",POINT(-133.6225 56.351944),0,-9
+"KPC","Port Clarence Coast Guard Station",POINT(-166.859 65.2537),10,-9
+"KPN","Kipnuk Airport",POINT(-164.030556 59.933056),11,-9
+"KPR","Port Williams Seaplane Base",POINT(-152.582222 58.49),0,-9
+"KPV","Perryville Airport",POINT(-159.160833 55.906667),29,-9
+"KPY","Port Bailey Seaplane Base",POINT(-153.040556 57.93),0,-9
+"KQA","Akutan Seaplane Base",POINT(-165.785 54.1325),0,-9
+"KSM","St Marys Airport",POINT(-163.302 62.0605),311,-9
+"KTB","Thorne Bay Seaplane Base",POINT(-132.536667 55.688056),0,-9
+"KTN","Ketchikan Intl",POINT(-131.71375 55.355556),88,-9
+"KTS","Brevig Mission Airport",POINT(-166.465833 65.331389),35,-9
+"KUK","Kasigluk Airport",POINT(-162.524444 60.873333),40,-9
+"KVC","King Cove Airport",POINT(-162.266 55.1163),155,-9
+"KVL","Kivalina Airport",POINT(-164.563 67.7362),13,-9
+"KWK","Kwigillingok Airport",POINT(-163.168611 59.876389),18,-9
+"KWN","Quinhagak Airport",POINT(-161.845278 59.755),42,-9
+"KWP","West Point Village Seaplane Base",POINT(-153.548889 57.77),0,-9
+"KWT","Kwethluk Airport",POINT(-161.443611 60.790278),30,-9
+"KYK","Karuluk Airport",POINT(-154.450278 57.566944),137,-9
+"KYU","Koyukuk Airport",POINT(-157.730556 64.875833),149,-9
+"KZB","Zachar Bay Seaplane Base",POINT(-153.75 57.55),0,-9
+"L06","Furnace Creek",POINT(-116.515 36.273),0,-8
+"L35","Big Bear City",POINT(-116.8560278 34.2637778),6725,-8
+"L52","Oceano County Airport",POINT(-120.62236111 35.10147222),14,-8
+"LAA","Lamar Muni",POINT(-102.6885 38.069694),3706,-7
+"LAF","Purude University Airport",POINT(-86.9368889 40.4123056),606,-5
+"LAL","Lakeland Linder Regional Airport",POINT(-82.0185556 27.9889167),142,-5
+"LAM","Los Alamos Airport",POINT(-106.2694153 35.8798019),7171,-7
+"LAN","Capital City",POINT(-84.587357 42.7787),861,-5
+"LAR","Laramie Regional Airport",POINT(-105.675 41.3121),7284,-7
+"LAS","Mc Carran Intl",POINT(-115.15225 36.080056),2141,-8
+"LAW","Lawton-Fort Sill Regional Airport",POINT(-98.4166367 34.5677144),1110,-6
+"LAX","Los Angeles Intl",POINT(-118.408075 33.942536),126,-8
+"LBB","Lubbock Preston Smith Intl",POINT(-101.822778 33.663639),3282,-6
+"LBE","Arnold Palmer Regional Airport",POINT(-79.4048 40.2759),1185,-5
+"LBF","North Platte Regional Airport Lee Bird Field",POINT(-100.684 41.1262),2776,-6
+"LBL","Liberal Muni",POINT(-100.95986 37.044222),2885,-6
+"LBT","Municipal Airport",POINT(-79.0595556 34.6098056),125,-5
+"LCH","Lake Charles Rgnl",POINT(-93.223335 30.126112),15,-6
+"LCK","Rickenbacker Intl",POINT(-82.927822 39.813786),744,-5
+"LCQ","Lake City Municipal Airport",POINT(-82.576944 30.181944),201,-5
+"LDJ","Linden Airport",POINT(-74.2445942 40.6174472),23,-5
+"LEB","Lebanon Municipal Airport",POINT(-72.3042 43.6261),603,-5
+"LEW","Lewiston Maine",POINT(-70.2835075 44.0484728),288,-5
+"LEX","Blue Grass",POINT(-84.605889 38.0365),979,-5
+"LFI","Langley Afb",POINT(-76.360547 37.082881),11,-5
+"LFK","Angelina Co",POINT(-94.75 31.234014),296,-6
+"LFT","Lafayette Rgnl",POINT(-91.987611 30.205278),43,-6
+"LGA","La Guardia",POINT(-73.872608 40.777245),22,-5
+"LGB","Long Beach",POINT(-118.151611 33.817722),60,-8
+"LGC","LaGrange-Callaway Airport",POINT(-85.0726111 33.0088611),694,-5
+"LGU","Logan-Cache",POINT(-111.852 41.791),4457,-7
+"LHD","Lake Hood Seaplane Base",POINT(-149.9653918 61.1866382),71,-9
+"LHM","Lincoln Regional Airport Karl Harder Field",POINT(-121.3513333 38.9091667),121,-8
+"LHV","William T. Piper Mem.",POINT(-77.4223056 41.1357778),556,-5
+"LHX","La Junta Muni",POINT(-103.509431 38.049719),4238,-7
+"LIH","Lihue",POINT(-159.338958 21.975983),153,-10
+"LIT","Adams Fld",POINT(-92.224306 34.729444),262,-6
+"LIV","Livingood Airport",POINT(-148.541111 65.531111),696,-9
+"LKE","Kenmore Air Harbor Seaplane Base",POINT(-122.339 47.629),14,-8
+"LKK","Kulik Lake Airport",POINT(-155.108089 58.96591),1000,-9
+"LKP","Lake Placid Airport",POINT(-73.961944 44.264444),1747,-5
+"LMT","Klamath Falls Airport",POINT(-121.733 42.1561),4095,-8
+"LNA","Palm Beach Co Park",POINT(-80.085056 26.593),14,-5
+"LNK","Lincoln",POINT(-96.75925 40.850971),1219,-6
+"LNN","Lost Nation Municipal Airport",POINT(-81.38975 41.6840278),626,-5
+"LNR","Tri-County Regional Airport",POINT(-90.181667 43.211667),718,-6
+"LNS","Lancaster Airport",POINT(-76.2961 40.1217),403,-5
+"LNY","Lanai",POINT(-156.951419 20.785611),1308,-10
+"LOT","Lewis University Airport",POINT(-88.083003 41.606326),680,-6
+"LOU","Bowman Fld",POINT(-85.663722 38.228),546,-5
+"LOZ","London-Corbin Airport-MaGee Field",POINT(-84.0773889 37.0868889),1212,-5
+"LPC","Lompoc Airport",POINT(-120.4675 34.6656),88,-8
+"LPR","Lorain County Regional Airport",POINT(-82.1776389 41.3442778),793,-5
+"LPS","Lopez Island Airport",POINT(-122.938 48.4839),209,-8
+"LRD","Laredo Intl",POINT(-99.461556 27.54375),508,-6
+"LRF","Little Rock Afb",POINT(-92.149722 34.916944),311,-6
+"LRO","Mount Pleasant Regional-Faison Field",POINT(-79.4697 32.5387),12,-5
+"LRU","Las Cruces Intl",POINT(-106.921972 32.289417),4456,-7
+"LSE","La Crosse Municipal",POINT(-91.256711 43.878986),654,-6
+"LSF","Lawson Aaf",POINT(-84.991283 32.337322),232,-5
+"LSV","Nellis Afb",POINT(-115.034253 36.236197),1870,-8
+"LTS","Altus Afb",POINT(-99.266681 34.667067),1382,-6
+"LUF","Luke Afb",POINT(-112.38306 33.535),1085,-7
+"LUK","Cincinnati Muni Lunken Fld",POINT(-84.418611 39.103333),483,-5
+"LUP","Kalaupapa Airport",POINT(-156.974 21.211),24,-10
+"LUR","Cape Lisburne Lrrs",POINT(-166.110022 68.875133),12,-9
+"LVK","Livermore Municipal",POINT(-121.49133 37.41362),400,-8
+"LVM","Mission Field Airport",POINT(-110.4483056 45.6993889),4660,-7
+"LVS","Las Vegas Muni",POINT(-105.142389 35.654222),6877,-7
+"LWA","South Haven Area Regional Airport",POINT(-86.2556389 42.3511944),666,-5
+"LWB","Greenbrier Valley Airport",POINT(-80.399444 37.858333),2302,-5
+"LWC","Lawrence Municipal",POINT(-95.2175 39.009167),833,-6
+"LWM","Lawrence Municipal Airport",POINT(-71.1234167 42.7171944),148,-5
+"LWS","Lewiston Nez Perce Co",POINT(-117.015389 46.3745),1442,-8
+"LWT","Lewistown Municipal Airport",POINT(-109.467 47.0493),4170,-7
+"LXY","Mexia - Limestone County Airport",POINT(-96.5144594 31.6411783),544,-6
+"LYH","Lynchburg Regional Preston Glenn Field",POINT(-79.2004 37.3267),938,-5
+"LYU","Ely Municipal",POINT(-91.830833 47.824444),1456,-6
+"LZU","Gwinnett County Airport-Briscoe Field",POINT(-83.9623772 33.9780761),1061,-5
+"M94","Desert Aire",POINT(-119.5518 46.4124),586,-8
+"MAE","Madera Municipal Airport",POINT(-120.1124444 36.9886111),255,-8
+"MAF","Midland Intl",POINT(-102.201914 31.942528),2871,-6
+"MBL","Manistee County-Blacker Airport",POINT(-86.246944 44.2725),621,-5
+"MBS","Mbs Intl",POINT(-84.079647 43.532913),668,-5
+"MCC","Mc Clellan Afld",POINT(-121.400611 38.667639),75,-8
+"MCD","Mackinac Island Airport",POINT(-84.637344 45.8649344),740,-5
+"MCE","Merced Municipal Airport",POINT(-120.513889 37.284722),156,-8
+"MCF","Macdill Afb",POINT(-82.521214 27.849339),14,-5
+"MCG","McGrath Airport",POINT(-155.606 62.9529),338,-9
+"MCI","Kansas City Intl",POINT(-94.713905 39.297606),1026,-6
+"MCK","McCook Regional Airport",POINT(-100.592222 40.206389),2583,-6
+"MCL","McKinley National Park Airport",POINT(-148.91129 63.732757),1720,-9
+"MCN","Middle Georgia Rgnl",POINT(-83.649211 32.69285),354,-5
+"MCO","Orlando Intl",POINT(-81.308994 28.429394),96,-5
+"MCW","Mason City Municipal",POINT(-93.4067 43.2247),1243,-6
+"MDT","Harrisburg Intl",POINT(-76.763403 40.193494),310,-5
+"MDW","Chicago Midway Intl",POINT(-87.752417 41.785972),620,-6
+"ME5","Banks Airport",POINT(-68.4281667 44.1653889),100,-5
+"MEI","Key Field",POINT(-88.751868 32.332624),297,-6
+"MEM","Memphis Intl",POINT(-89.976667 35.042417),341,-6
+"MER","Castle",POINT(-120.568189 37.380481),189,-8
+"MFD","Mansfield Lahm Regional",POINT(-82.5166389 40.8214167),1297,-5
+"MFE","Mc Allen Miller Intl",POINT(-98.238611 26.175833),107,-6
+"MFI","Marshfield Municipal Airport",POINT(-90.1893267 44.6368797),1278,-6
+"MFR","Rogue Valley Intl Medford",POINT(-122.8735 42.374228),1335,-8
+"MGC","Michigan City Municipal Airport",POINT(-86.8211 41.7033),500,-6
+"MGE","Dobbins Arb",POINT(-84.516319 33.915382),1068,-5
+"MGJ","Orange County Airport",POINT(-74.2646444 41.5099884),364,-5
+"MGM","Montgomery Regional Airport",POINT(-86.3939722 32.3006389),221,-6
+"MGR","Moultrie Municipal Airport",POINT(-83.80325 31.0849167),294,-5
+"MGW","Morgantown Muni Walter L Bill Hart Fld",POINT(-79.916314 39.642908),1248,-5
+"MGY","Dayton-Wright Brothers Airport",POINT(-84.2248611 39.5889722),957,-5
+"MHK","Manhattan Reigonal",POINT(-96.670833 39.140972),1057,-6
+"MHM","Minchumina Airport",POINT(-152.301944 63.886111),678,-9
+"MHR","Sacramento Mather",POINT(-121.297592 38.553897),96,-8
+"MHT","Manchester Regional Airport",POINT(-71.435667 42.932556),266,-5
+"MHV","Mojave",POINT(-118.151856 35.059364),2791,-8
+"MIA","Miami Intl",POINT(-80.290556 25.79325),8,-5
+"MIB","Minot Afb",POINT(-101.357661 48.415572),1668,-6
+"MIC","Crystal Airport",POINT(-93.2114 45.0343),869,-6
+"MIE","Delaware County Airport",POINT(-85.39575 40.2424722),937,-5
+"MIV","Millville Muni",POINT(-75.072222 39.367806),85,-5
+"MKC","Downtown",POINT(-94.598889 39.1275),759,-6
+"MKE","General Mitchell Intl",POINT(-87.896583 42.947222),723,-6
+"MKG","Muskegon County Airport",POINT(-86.2382 43.1695),628,-5
+"MKK","Molokai",POINT(-157.096256 21.152886),454,-10
+"MKL","Mc Kellar Sipes Rgnl",POINT(-88.915611 35.599889),434,-6
+"MKO","Davis Fld",POINT(-95.366656 35.656489),612,-6
+"MLB","Melbourne Intl",POINT(-80.645258 28.102753),33,-5
+"MLC","Mc Alester Rgnl",POINT(-95.783463 34.882403),770,-6
+"MLD","Malad City",POINT(-112.289 42.17),4503,-7
+"MLI","Quad City Intl",POINT(-90.507539 41.448528),590,-6
+"MLJ","Baldwin County Airport",POINT(-83.2414139 33.154225),385,-5
+"MLL","Marshall Don Hunter Sr. Airport",POINT(-162.026111 61.8646418),103,-9
+"MLS","Frank Wiley Field",POINT(-105.886 46.428),2630,-7
+"MLT","Millinocket Muni",POINT(-68.685561 45.647836),408,-5
+"MLU","Monroe Rgnl",POINT(-92.037689 32.510864),79,-6
+"MLY","Manley Hot Springs Airport",POINT(-150.644167 64.9975),270,-9
+"MMH","Mammoth Yosemite Airport",POINT(-118.837772 37.624049),7128,-8
+"MMI","McMinn Co",POINT(-84.56177 35.39919),874,-5
+"MMU","Morristown Municipal Airport",POINT(-74.4148747 40.79935),187,-5
+"MMV","Mc Minnville Muni",POINT(-123.135944 45.194444),163,-8
+"MNM","Menominee Marinette Twin Co",POINT(-87.638443 45.12665),625,-6
+"MNT","Minto Airport",POINT(-149.37 65.143611),460,-9
+"MNZ","Manassas",POINT(-77.515556 38.721389),192,-5
+"MOB","Mobile Rgnl",POINT(-88.242814 30.691231),219,-6
+"MOD","Modesto City Co Harry Sham",POINT(-120.954422 37.625817),97,-8
+"MOT","Minot Intl",POINT(-101.280333 48.259378),1716,-6
+"MOU","Mountain Village Airport",POINT(-163.682 62.0954),337,-9
+"MPB","Miami Seaplane Base",POINT(-80.1703 25.7783),0,-5
+"MPI","MariposaYosemite",POINT(-120.0222 37.3039),2454,-8
+"MPV","Edward F Knapp State",POINT(-72.562328 44.203503),1165,-5
+"MQB","Macomb Municipal Airport",POINT(-90.6523889 40.5200833),707,-6
+"MQI","Dare County Regional",POINT(-75.4173 35.5514),13,-5
+"MQT","Sawyer International Airport",POINT(-87.395278 46.353611),1221,-5
+"MRB","Eastern WV Regional Airport",POINT(-77.591 39.2407),554,-5
+"MRI","Merrill Fld",POINT(-149.844447 61.213544),137,-9
+"MRK","Marco Islands",POINT(-81.6725278 25.9950278),5,-5
+"MRN","Foothills Regional Airport",POINT(-81.6115119 35.8202336),1270,-5
+"MRY","Monterey Peninsula",POINT(-121.842944 36.587),257,-8
+"MSL","Northwest Alabama Regional Airport",POINT(-87.6102 34.7453),550,-6
+"MSN","Dane Co Rgnl Truax Fld",POINT(-89.337514 43.139858),887,-6
+"MSO","Missoula Intl",POINT(-114.090556 46.916306),3205,-7
+"MSP","Minneapolis St Paul Intl",POINT(-93.221767 44.881956),841,-6
+"MSS","Massena Intl Richards Fld",POINT(-74.845547 44.935833),215,-5
+"MSY","Louis Armstrong New Orleans Intl",POINT(-90.258028 29.993389),4,-6
+"MTC","Selfridge Angb",POINT(-82.8355 42.608333),580,-5
+"MTH","Florida Keys Marathon Airport",POINT(-81.051389 24.726111),7,-5
+"MTJ","Montrose Regional Airport",POINT(-107.894242 38.509794),5759,-7
+"MTM","Metlakatla Seaplane Base",POINT(-131.578056 55.131111),0,-9
+"MTN","Martin State",POINT(-76.4137778 39.3256667),22,-5
+"MUE","Waimea Kohala",POINT(-155.668108 20.001328),2671,-10
+"MUI","Muir Aaf",POINT(-76.569411 40.434811),489,-5
+"MUO","Mountain Home Afb",POINT(-115.872431 43.043603),2996,-7
+"MVL","Morrisville Stowe State Airport",POINT(-72.614 44.535),732,-5
+"MVY","Martha\\'s Vineyard",POINT(-70.615278 41.391667),67,-5
+"MWA","Williamson Country Regional Airport",POINT(-89.0110936 37.7549569),472,-6
+"MWC","Lawrence J Timmerman Airport",POINT(-88.0344167 43.1103889),745,-6
+"MWH","Grant Co Intl",POINT(-119.32019 47.207708),1185,-8
+"MWL","Mineral Wells",POINT(-98.060175 32.781606),974,-6
+"MWM","Windom Municipal Airport",POINT(-95.1094083 43.9134017),1410,-6
+"MXF","Maxwell Afb",POINT(-86.365778 32.382944),171,-6
+"MXY","McCarthy Airport",POINT(-142.90307372 61.4370608),1531,-9
+"MYF","Montgomery Field",POINT(117.759 32.4759),17,8
+"MYL","McCall Municipal Airport",POINT(-116.101389 44.889722),5021,-7
+"MYR","Myrtle Beach Intl",POINT(-78.928333 33.67975),25,-5
+"MYU","Mekoryuk Airport",POINT(-166.271 60.3714),48,-9
+"MYV","Yuba County Airport",POINT(-121.3411 39.0553),62,-8
+"MZJ","Pinal Airpark",POINT(-111.325278 32.509722),1893,-7
+"N53","Stroudsburg-Pocono Airport",POINT(-75.1606789 41.0358717),480,-5
+"N69","Stormville Airport",POINT(-73.7323514 41.5769708),358,-5
+"N87","Trenton-Robbinsville Airport",POINT(-74.6017778 40.2139444),118,-5
+"NBG","New Orleans Nas Jrb",POINT(-90.035 29.825333),3,-6
+"NBU","Naval Air Station",POINT(-87.8225 42.090556),653,-6
+"NCN","Chenega Bay Airport",POINT(-147.991944 60.077222),72,-9
+"NEL","Lakehurst Naes",POINT(-74.353333 40.033333),103,-5
+"NEW","Lakefront",POINT(-90.02825 30.0424167),7,-6
+"NFL","Fallon Nas",POINT(-118.70098 39.416584),3934,-8
+"NGF","Kaneohe Bay Mcaf",POINT(-157.768 21.450453),24,-10
+"NGP","Corpus Christi NAS",POINT(-97.290376 27.692701),18,-6
+"NGU","Norfolk Ns",POINT(-76.289289 36.937644),15,-5
+"NGZ","NAS Alameda",POINT(-122.3186 37.7861),10,-8
+"NHK","Patuxent River Nas",POINT(-76.411781 38.285981),39,-5
+"NIB","Nikolai Airport",POINT(-154.383889 63.010833),427,-9
+"NID","China Lake Naws",POINT(-117.692039 35.685422),2283,-8
+"NIP","Jacksonville Nas",POINT(-81.680556 30.235834),22,-5
+"NJK","El Centro Naf",POINT(-115.671667 32.829222),-42,-8
+"NKT","Cherry Point Mcas",POINT(-76.880733 34.900872),29,-5
+"NKX","Miramar Mcas",POINT(-117.14175 32.867694),478,-8
+"NLC","Lemoore Nas",POINT(-119.95208 36.333012),234,-8
+"NLG","Nelson Lagoon",POINT(-161.160278 56.0075),14,-9
+"NME","Nightmute Airport",POINT(-164.700833 60.471111),4,-9
+"NMM","Meridian Nas",POINT(-88.555557 32.552083),317,-6
+"NNL","Nondalton Airport",POINT(-154.851667 59.966944),262,-9
+"NOW","Port Angeles Cgas",POINT(-123.414075 48.141481),13,-8
+"NPA","Pensacola Nas",POINT(-87.318647 30.352656),28,-6
+"NPZ","Porter County Municipal Airport",POINT(-87.0070833 41.4539722),770,-6
+"NQA","Millington Rgnl Jetport",POINT(-89.870278 35.356667),320,-6
+"NQI","Kingsville Nas",POINT(-97.809723 27.507223),50,-6
+"NQX","Key West Nas",POINT(-81.688889 24.575834),6,-5
+"NSE","Whiting Fld Nas North",POINT(-87.021944 30.724167),199,-6
+"NTD","Point Mugu Nas",POINT(-119.12094 34.120285),13,-8
+"NTU","Oceana Nas",POINT(-76.033542 36.820703),22,-5
+"NUI","Nuiqsut Airport",POINT(-151.005556 70.21),38,-9
+"NUL","Nulato Airport",POINT(-158.074167 64.729444),399,-9
+"NUP","Nunapitchuk Airport",POINT(-162.439167 60.905833),12,-9
+"NUQ","Moffett Federal Afld",POINT(-122.049139 37.416142),32,-8
+"NUW","Whidbey Island Nas",POINT(-122.655906 48.351803),47,-8
+"NXP","Twentynine Palms Eaf",POINT(-116.162203 34.296161),2051,-8
+"NXX","Willow Grove Nas Jrb",POINT(-75.148167 40.199833),358,-5
+"NY9","Long Lake",POINT(-74.42044 43.9750617),1629,-5
+"NYC","All Airports",POINT(-74.005833 40.714167),31,-5
+"NYG","Quantico Mcaf",POINT(-77.305333 38.501683),11,-5
+"NZC","Cecil Field",POINT(-81.8767 30.2187),81,-5
+"NZJ","El Toro",POINT(-117.731164 33.676132),383,-8
+"NZY","North Island Nas",POINT(-117.21531 32.699219),26,-8
+"O03","Morgantown Airport",POINT(-75.8704892 40.1570414),600,-5
+"O27","Oakdale Airport",POINT(-120.8001944 37.7563333),237,-8
+"OAJ","Albert J Ellis",POINT(-77.612139 34.829164),94,-5
+"OAK","Metropolitan Oakland Intl",POINT(-122.220722 37.721278),9,-8
+"OAR","Marina Muni",POINT(-121.762347 36.681878),134,-8
+"OBE","County",POINT(-80.851111 27.265833),34,-5
+"OBU","Kobuk Airport",POINT(-156.897222 66.912222),137,-9
+"OCA","Key Largo",POINT(-80.274775 25.325393),8,-5
+"OCF","International Airport",POINT(-82.224167 29.1725),89,-5
+"OEB","Branch County Memorial Airport",POINT(-85.0522935 41.9335691),959,-5
+"OFF","Offutt Afb",POINT(-95.912511 41.118332),1052,-6
+"OGG","Kahului",POINT(-156.430458 20.89865),54,-10
+"OGS","Ogdensburg Intl",POINT(-75.4655 44.681854),297,-5
+"OJC","Johnson County Airport",POINT(-94.4415 38.5051),1096,-6
+"OKC","Will Rogers World",POINT(-97.600733 35.393089),1295,-6
+"OLF","LM Clayton Airport",POINT(-105.575 48.094444),1986,-7
+"OLH","Old Harbor Airport",POINT(-153.269722 57.218056),55,-9
+"OLM","Olympia Regional Airpor",POINT(-122.9025447 46.9694044),209,-8
+"OLS","Nogales Intl",POINT(-110.84789 31.417722),3955,-7
+"OLT","San Diego Old Town Transit Center",POINT(-117.1995 32.7552),0,-8
+"OLV","Olive Branch Muni",POINT(-89.783333 34.876944),350,-6
+"OMA","Eppley Afld",POINT(-95.894069 41.303167),984,-6
+"OME","Nome",POINT(-165.445247 64.512203),37,-9
+"OMN","Ormond Beach municipal Airport",POINT(-81.06497 29.1804),28,-5
+"ONH","Oneonta Municipal Airport",POINT(-75.064444 42.524722),1763,-5
+"ONP","Newport Municipal Airport",POINT(-124.057917 44.580361),160,-8
+"ONT","Ontario Intl",POINT(-117.601194 34.056),944,-8
+"OOK","Toksook Bay Airport",POINT(-165.087222 60.541389),59,-9
+"OPF","Opa Locka",POINT(-80.278389 25.907),8,-5
+"OQN","Brandywine Airport",POINT(-75.3455 39.5924),466,-5
+"OQU","Quonset State Airport",POINT(-71.4121389 41.5971389),18,-5
+"ORD","Chicago Ohare Intl",POINT(-87.904842 41.978603),668,-6
+"ORF","Norfolk Intl",POINT(-76.201222 36.894611),26,-5
+"ORH","Worcester Regional Airport",POINT(-71.8757 42.2673),1009,-5
+"ORI","Port Lions Airport",POINT(-152.846111 57.885278),52,-9
+"ORL","Executive",POINT(-81.332936 28.545464),113,-5
+"ORT","Northway",POINT(-141.929136 62.961334),1716,-9
+"ORV","Robert Curtis Memorial Airport",POINT(-161.022222 66.8175),55,-9
+"OSC","Oscoda Wurtsmith",POINT(-83.394053 44.451558),634,-5
+"OSH","Wittman Regional Airport",POINT(-88.551336 44.024983),790,-6
+"OSU","Ohio State University Airport",POINT(-83.073 40.0798),905,-5
+"OTH","Southwest Oregon Regional Airport",POINT(-124.246 43.4171),17,-8
+"OTS","Anacortes Airport",POINT(-122.6625 48.498889),241,-8
+"OTZ","Ralph Wien Mem",POINT(-162.59855 66.884678),11,-9
+"OWB","Owensboro Daviess County Airport",POINT(-87.1668 37.7401),406,-6
+"OWD","Norwood Memorial Airport",POINT(-71.1729444 42.1905278),49,-5
+"OXC","Waterbury-Oxford Airport",POINT(-73.13525 41.4785556),726,-5
+"OXD","Miami University Airport",POINT(-84.7843814 39.5022607),1040,-5
+"OXR","Oxnard - Ventura County",POINT(-119.207222 34.200833),15,-8
+"OZA","Ozona Muni",POINT(-101.202972 30.735281),2381,-6
+"P08","Coolidge Municipal Airport",POINT(-111.427001953125 32.9359016418457),1574,-7
+"P52","Cottonwood Airport",POINT(-112.035003662109 34.7299995422363),3550,-7
+"PAE","Snohomish Co",POINT(-122.281564 47.906342),606,-8
+"PAH","Barkley Regional Airport",POINT(-88.7729583 37.0602875),410,-6
+"PAM","Tyndall Afb",POINT(-85.575417 30.069567),17,-6
+"PAO","Palo Alto Airport of Santa Clara County",POINT(-122.1150556 37.4611111),7,-8
+"PAQ","Palmer Muni",POINT(-149.088711 61.594914),242,-9
+"PBF","Grider Fld",POINT(-91.935597 34.173142),206,-6
+"PBG","Plattsburgh Intl",POINT(-73.468139 44.650944),234,-5
+"PBI","Palm Beach Intl",POINT(-80.095589 26.683161),19,-5
+"PBV","St George",POINT(-169.661611 56.578344),125,-9
+"PBX","Pike County Airport - Hatcher Field",POINT(-82.5663889 37.5617639),1473,-5
+"PCW","Erie-Ottawa Regional Airport",POINT(-82.8694868 41.5162703),590,-5
+"PCZ","Waupaca Municipal Airport",POINT(-89.0197778 44.33325),840,-6
+"PDB","Pedro Bay Airport",POINT(-154.1325 59.782222),45,-9
+"PDK","Dekalb-Peachtree Airport",POINT(-84.3019722 33.8756111),1003,-5
+"PDT","Eastern Oregon Regional Airport",POINT(-118.841389 45.695),1497,-8
+"PDX","Portland Intl",POINT(-122.5975 45.588722),30,-8
+"PEC","Pelican Seaplane Base",POINT(-136.236389 57.955278),0,-9
+"PEQ","Pecos Municipal Airport",POINT(-103.5107222 31.3823889),2613,-6
+"PFN","Panama City Bay Co Intl",POINT(-85.682806 30.212083),20,-6
+"PGA","Page Municipal Airport",POINT(-111.4483 36.9261),4316,-7
+"PGD","Charlotte County-Punta Gorda Airport",POINT(-81.990556 26.919722),26,-5
+"PGV","Pitt-Greenville Airport",POINT(-77.385278 35.635278),27,-5
+"PHD","Harry Clever Field Airport",POINT(-81.4199444 40.4701667),894,-5
+"PHF","Newport News Williamsburg Intl",POINT(-76.492989 37.131894),43,-5
+"PHK","Pahokee Airport",POINT(-80.692 26.789),18,-5
+"PHL","Philadelphia Intl",POINT(-75.241139 39.871944),36,-5
+"PHN","St Clair Co Intl",POINT(-82.528862 42.910957),650,-5
+"PHO","Point Hope Airport",POINT(-166.799 68.3488),12,-9
+"PHX","Phoenix Sky Harbor Intl",POINT(-112.011583 33.434278),1135,-7
+"PIA","Peoria Regional",POINT(-89.693258 40.664203),660,-6
+"PIB","Hattiesburg Laurel Regional Airport",POINT(-89.3371 31.4671),298,-6
+"PIE","St Petersburg Clearwater Intl",POINT(-82.687389 27.910167),10,-5
+"PIH","Pocatello Regional Airport",POINT(-112.596 42.9098),4452,-7
+"PIM","Harris County Airport",POINT(-84.8824444 32.8406944),902,-5
+"PIP","Pilot Point Airport",POINT(-157.571944 57.585393),57,-9
+"PIR","Pierre Regional Airport",POINT(-100.286 44.3827),1742,-6
+"PIT","Pittsburgh Intl",POINT(-80.232872 40.491467),1204,-5
+"PIZ","Point Lay Lrrs",POINT(-163.005342 69.732875),25,-9
+"PKB","Mid-Ohio Valley Regional Airport",POINT(-81.4392031 39.3451039),858,-5
+"PLN","Pellston Regional Airport of Emmet County Airport",POINT(-84.7967 45.5709),720,-5
+"PMB","Pembina Muni",POINT(-97.240833 48.942501),795,-6
+"PMD","Palmdale Rgnl Usaf Plt 42",POINT(-118.08456 34.629391),2543,-8
+"PML","Port Moller Airport",POINT(-160.560833 56.006111),20,-9
+"PMP","Pompano Beach Airpark",POINT(-80.1110556 26.2471389),19,-5
+"PNC","Ponca City Rgnl",POINT(-97.099781 36.731958),1007,-6
+"PNE","Northeast Philadelphia",POINT(-75.010586 40.081944),121,-5
+"PNM","Princeton Muni",POINT(-93.608217 45.559868),979,-6
+"PNS","Pensacola Rgnl",POINT(-87.186611 30.473425),121,-6
+"POB","Pope Field",POINT(-79.014472 35.170883),217,-5
+"POC","Brackett Field",POINT(-117.7817778 34.0916667),1014,-8
+"POE","Polk Aaf",POINT(-93.191667 31.044833),330,-6
+"POF","Poplar Bluff Municipal Airport",POINT(-90.3248611 36.77394444),331,-6
+"PPC","Prospect Creek Airport",POINT(-150.643611 66.814167),1095,-9
+"PPV","Port Protection Seaplane Base",POINT(-133.61 56.328889),0,-9
+"PQI","Northern Maine Rgnl At Presque Isle",POINT(-68.044797 46.688958),534,-5
+"PQS","Pilot Station Airport",POINT(-162.899444 61.934444),305,-9
+"PRC","Ernest A Love Fld",POINT(-112.419583 34.654472),5045,-7
+"PRL","Port Oceanic Airport",POINT(-147.8194444 60.2083333),142,-9
+"PSC","Tri Cities Airport",POINT(-119.119 46.2647),410,-8
+"PSG","Petersburg James A. Johnson",POINT(-132.945278 56.801667),105,-9
+"PSM","Pease International Tradeport",POINT(-70.8233 43.0779),100,-5
+"PSP","Palm Springs Intl",POINT(-116.506694 33.829667),477,-8
+"PSX","Palacios Muni",POINT(-96.250958 28.727508),14,-6
+"PTA","Port Alsworth Airport",POINT(-154.306586 60.208281),253,-9
+"PTB","Dinwiddie County Airport",POINT(-77.507388 37.18375),193,-5
+"PTH","Port Heiden Airport",POINT(-158.633 56.9591),95,-9
+"PTK","Oakland Co. Intl",POINT(-83.35 42.667),980,-5
+"PTU","Platinum",POINT(-161.819664 59.011356),15,-9
+"PUB","Pueblo Memorial",POINT(-104.496572 38.289085),4726,-7
+"PUC","Carbon County Regional-Buck Davis Field",POINT(-110.75278 39.609722),5957,-7
+"PUW","Pullman-Moscow Rgnl",POINT(-117.109583 46.743861),2556,-8
+"PVC","Provincetown Muni",POINT(-70.22139 42.071945),9,-5
+"PVD","Theodore Francis Green State",POINT(-71.420383 41.732581),55,-5
+"PVU","Provo Municipal Airport",POINT(-111.72222222 40.21805555),4497,-7
+"PWK","Chicago Executive",POINT(-87.9015376 42.1142897),647,-6
+"PWM","Portland Intl Jetport",POINT(-70.309281 43.646161),77,-5
+"PWT","Bremerton National",POINT(-122.764814 47.490244),444,-8
+"PYM","Plymouth Municipal Airport",POINT(-70.7287778 41.9090278),148,-5
+"PYP","Centre-Piedmont-Cherokee County Regional Airport",POINT(-85.6100833 34.0899167),595,-6
+"R49","Ferry County Airport",POINT(-118.6564714 48.7182058),2522,-8
+"RAC","John H. Batten Airport",POINT(-87.8152 42.7605),674,-6
+"RAL","Riverside Muni",POINT(-117.445103 33.951875),818,-8
+"RAP","Rapid City Regional Airport",POINT(-103.057222 44.045278),3204,-7
+"RBD","Dallas Executive Airport",POINT(-96.868333 32.680833),201,-6
+"RBK","French Valley Airport",POINT(-117.1284732 33.5741791),1350,-8
+"RBM","Robinson Aaf",POINT(-92.300153 34.850089),587,-6
+"RBN","Fort Jefferson",POINT(-82.86667 24.61667),0,-5
+"RBY","Ruby Airport",POINT(-155.47 64.7272),653,-9
+"RCA","Ellsworth Afb",POINT(-103.103567 44.145042),3279,-7
+"RCE","Roche Harbor Seaplane Base",POINT(-123.159722 48.608056),0,-8
+"RCZ","Richmond County Airport",POINT(-79.7596111 34.8913056),358,-5
+"RDD","Redding Muni",POINT(-122.293389 40.509),504,-8
+"RDG","Reading Regional Carl A Spaatz Field",POINT(-75.9652 40.3785),344,-5
+"RDM","Roberts Fld",POINT(-121.149964 44.254066),3077,-8
+"RDR","Grand Forks Afb",POINT(-97.401194 47.961098),913,-6
+"RDU","Raleigh Durham Intl",POINT(-78.787472 35.877639),435,-5
+"RDV","Red Devil Airport",POINT(-157.350278 61.788056),174,-9
+"REI","Redlands Municipal Airport",POINT(-117.146388 34.08525),1574,-8
+"RFD","Chicago Rockford International Airport",POINT(-89.0972222 42.1953611),742,-6
+"RHI","Rhinelander Oneida County Airport",POINT(-89.4675 45.6312),1624,-6
+"RIC","Richmond Intl",POINT(-77.319667 37.505167),167,-5
+"RID","Richmond Municipal Airport",POINT(-84.8427175 39.7561006),1140,-5
+"RIF","Richfield Minicipal Airport",POINT(-112.0989444 38.7364361),5301,-7
+"RIL","Garfield County Regional Airport",POINT(-107.7269444 39.5263056),5548,-7
+"RIR","Flabob Airport",POINT(-117.409971 33.988778),764,-8
+"RIU","Rancho Murieta",POINT(-121.102778 38.486778),141,-8
+"RIV","March Arb",POINT(-117.259453 33.880711),1535,-8
+"RIW","Riverton Regional",POINT(-108.459722 43.064167),5525,-7
+"RKD","Knox County Regional Airport",POINT(-69.0992303 44.0601111),56,-5
+"RKH","Rock Hill York Co Bryant Airport",POINT(-81.0572 34.9878),667,-5
+"RKP","Aransas County Airport",POINT(-97.0436944 28.0862222),24,-6
+"RKS","Rock Springs Sweetwater County Airport",POINT(-109.065 41.5942),6760,-7
+"RME","Griffiss Afld",POINT(-75.407033 43.2338),504,-5
+"RMG","Richard B Russell Airport",POINT(-85.1586667 34.3507778),664,-5
+"RMP","Rampart Airport",POINT(-150.140833 65.507778),302,-9
+"RMY","Brooks Field Airport",POINT(-84.9554443 42.2511932),941,-5
+"RND","Randolph Afb",POINT(-98.2789 29.529675),762,-6
+"RNM","Ramona Airport",POINT(-116.91525 33.0391667),1395,-8
+"RNO","Reno Tahoe Intl",POINT(-119.768108 39.499108),4415,-8
+"RNT","Renton",POINT(-122.21575 47.4931389),32,-8
+"ROA","Roanoke Regional",POINT(-79.975417 37.325472),1175,-5
+"ROC","Greater Rochester Intl",POINT(-77.672389 43.118866),559,-5
+"ROW","Roswell Intl Air Center",POINT(-104.530556 33.301556),3671,-7
+"RSH","Russian Mission Airport",POINT(-161.319444 61.775),51,-9
+"RSJ","Rosario Seaplane Base",POINT(-122.868056 48.645556),0,-8
+"RST","Rochester",POINT(-92.500014 43.908283),1317,-6
+"RSW","Southwest Florida Intl",POINT(-81.755167 26.536167),30,-5
+"RUT","Rutland State Airport",POINT(-72.9496 43.5294),787,-5
+"RVS","Richard Lloyd Jones Jr Airport",POINT(-95.9846389 36.0396111),638,-6
+"RWI","Rocky Mount Wilson Regional Airport",POINT(-77.8919 35.8563),159,-5
+"RWL","Rawlins Municipal Airport-Harvey Field",POINT(-107.19994 41.8055975),6813,-7
+"RYY","Cobb County Airport-Mc Collum Field",POINT(-84.5970556 34.0131569),1041,-5
+"S30","Lebanon State",POINT(-122.5577 44.3179),344,-8
+"S40","Prosser",POINT(-119.4773 46.128),705,-8
+"S46","Port O\\'Connor Airfield",POINT(-96.442859 28.429977),10,-6
+"SAA","Shively Field Airport",POINT(-106.8235264 41.4448594),7012,-7
+"SAC","Sacramento Executive",POINT(-121.49347 38.512524),24,-8
+"SAD","Safford Regional Airport",POINT(-109.6350833 32.8533333),3179,-7
+"SAF","Santa Fe Muni",POINT(-106.089422 35.617108),6348,-7
+"SAN","San Diego Intl",POINT(-117.189667 32.733556),17,-8
+"SAT","San Antonio Intl",POINT(-98.469778 29.533694),809,-6
+"SAV","Savannah Hilton Head Intl",POINT(-81.202139 32.127583),51,-5
+"SBA","Santa Barbara Muni",POINT(-119.840372 34.426211),10,-8
+"SBD","San Bernardino International Airport",POINT(-117.2348722 34.0953521),1159,-8
+"SBM","Sheboygan County Memorial Airport",POINT(-87.851402 43.7696),755,-6
+"SBN","South Bend Rgnl",POINT(-86.31725 41.708661),799,-5
+"SBO","Emanuel Co",POINT(-82.369944 32.609139),327,-5
+"SBP","San Luis County Regional Airport",POINT(-120.642 35.2368),212,-8
+"SBS","Steamboat Springs Airport-Bob Adams Field",POINT(-106.8663056 40.51625),6882,-7
+"SBY","Salisbury Ocean City Wicomico Rgnl",POINT(-75.510289 38.340525),52,-5
+"SCC","Deadhorse",POINT(-148.465167 70.19475),64,-9
+"SCE","University Park Airport",POINT(-77.848694 40.849278),1239,-5
+"SCH","Stratton ANGB - Schenectady County Airpor",POINT(-73.928866666 42.85245555),378,-5
+"SCK","Stockton Metropolitan",POINT(-121.238306 37.894167),33,-8
+"SCM","Scammon Bay Airport",POINT(-165.571389 61.845278),14,-9
+"SDC","Williamson-Sodus Airport",POINT(-77.119444 43.2347904),424,-5
+"SDF","Louisville International Airport",POINT(-85.7364989 38.1740858),501,-5
+"SDM","Brown Field Municipal Airport",POINT(-116.9801611 32.5722722),526,-8
+"SDP","Sand Point Airport",POINT(-160.523 55.315),21,-9
+"SDX","Sedona",POINT(-111.788472 34.848628),4830,-7
+"SDY","Sidney-Richland Municipal Airport",POINT(-104.1925 47.706944),1984,-7
+"SEA","Seattle Tacoma Intl",POINT(-122.309306 47.449),433,-8
+"SEE","Gillespie",POINT(-116.9724444 32.8262222),388,-8
+"SEF","Regional - Hendricks AAF",POINT(-81.342222 27.456389),63,-5
+"SEM","Craig Fld",POINT(-86.987803 32.343947),166,-6
+"SES","Selfield Airport",POINT(-86.9522 32.4404),131,-6
+"SFB","Orlando Sanford Intl",POINT(-81.237489 28.777639),55,-5
+"SFF","Felts Fld",POINT(-117.322558 47.682819),1953,-8
+"SFM","Sanford Regional",POINT(-70.708 43.39383),244,-5
+"SFO","San Francisco Intl",POINT(-122.374889 37.618972),13,-8
+"SFZ","North Central State",POINT(-71.491381 41.920764),441,-5
+"SGF","Springfield Branson Natl",POINT(-93.388639 37.245667),1268,-6
+"SGH","Springfield-Beckly Municipal Airport",POINT(-83.8401667 39.8402778),1051,-5
+"SGJ","St. Augustine Airport",POINT(-81.3397222 29.95925),10,-5
+"SGR","Sugar Land Regional Airport",POINT(-95.6565278 29.62225),82,-6
+"SGU","St George Muni",POINT(-113.593056 37.090583),2941,-7
+"SGY","Skagway Airport",POINT(-135.316 59.4601),44,-9
+"SHD","Shenandoah Valley Regional Airport",POINT(-78.896389 38.263889),1201,-5
+"SHG","Shungnak Airport",POINT(-157.1625 66.888056),197,-9
+"SHH","Shishmaref Airport",POINT(-166.089 66.2496),12,-9
+"SHR","Sheridan County Airport",POINT(-106.98 44.7692),4021,-7
+"SHV","Shreveport Rgnl",POINT(-93.8256 32.446629),258,-6
+"SHX","Shageluk Airport",POINT(-159.569167 62.692222),79,-9
+"SIK","Sikeston Memorial Municipal",POINT(-89.56175 36.8988889),315,-6
+"SIT","Sitka Rocky Gutierrez",POINT(-135.361611 57.047138),21,-9
+"SJC","Norman Y Mineta San Jose Intl",POINT(-121.929022 37.3626),62,-8
+"SJT","San Angelo Rgnl Mathis Fld",POINT(-100.496306 31.35775),1919,-6
+"SKA","Fairchild Afb",POINT(-117.655772 47.615058),2461,-8
+"SKF","Lackland Afb Kelly Fld Annex",POINT(-98.581108 29.384228),691,-6
+"SKK","Shaktoolik Airport",POINT(-161.223889 64.371111),24,-9
+"SKY","Griffing Sandusky",POINT(-82.652333 41.433361),580,-5
+"SLC","Salt Lake City Intl",POINT(-111.977772 40.788389),4227,-7
+"SLE","McNary Field",POINT(-123.003 44.9095),214,-8
+"SLK","Adirondack Regional Airport",POINT(-74.2062 44.3853),1663,-5
+"SLN","Salina Municipal Airport",POINT(-97.6522 38.791),1288,-6
+"SLQ","Sleetmute Airport",POINT(-157.165833 61.700566),190,-9
+"SMD","Smith Fld",POINT(-85.152778 41.143353),834,-5
+"SME","Lake Cumberland Regional Airport",POINT(-84.615556 37.053611),927,-5
+"SMF","Sacramento Intl",POINT(-121.590778 38.695417),27,-8
+"SMK","St. Michael Airport",POINT(-162.110278 63.49),98,-9
+"SMN","Lemhi County Airport",POINT(-113.881389 45.123889),4043,-7
+"SMO","Santa Monica Municipal Airport",POINT(-118.4513056 34.0158333),177,-8
+"SMX","Santa Maria Pub Cpt G Allan Hancock Airport",POINT(-120.457 34.8989),261,-8
+"SNA","John Wayne Arpt Orange Co",POINT(-117.868222 33.675667),56,-8
+"SNP","St Paul Island",POINT(-170.220444 57.167333),63,-9
+"SNY","Sidney Muni Airport",POINT(-102.985 41.10167),4313,-7
+"SOP","Moore County Airport",POINT(-79.3887958 35.2376111),455,-5
+"SOW","Show Low Regional Airport",POINT(-110.005556 34.265556),6415,-7
+"SPB","Scappoose Industrial Airpark",POINT(-122.861833 45.771028),58,-8
+"SPF","Black Hills Airport-Clyde Ice Field",POINT(-103.7860053 44.4811407),3931,-7
+"SPG","Albert Whitted",POINT(-82.626972 27.765111),7,-5
+"SPI","Abraham Lincoln Capital",POINT(-89.677889 39.8441),597,-6
+"SPS","Sheppard Afb Wichita Falls Muni",POINT(-98.491894 33.988797),1019,-6
+"SPW","Spencer Muni",POINT(-95.202805 43.165527),1339,-6
+"SPZ","Silver Springs Airport",POINT(-119.2511944 39.4030278),4269,-8
+"SQL","San Carlos Airport",POINT(-122.249444 37.511944),5,-8
+"SRQ","Sarasota Bradenton Intl",POINT(-82.554389 27.395444),30,-5
+"SRR","Sierra Blanca Regional Airport",POINT(-105.534751 33.46285),6814,-7
+"SRV","Stony River 2 Airport",POINT(-156.591111 61.7875),230,-9
+"SSC","Shaw Afb",POINT(-80.470564 33.972719),242,-5
+"SSI","McKinnon Airport",POINT(-81.3910556 31.1519722),19,-5
+"STC","Saint Cloud Regional Airport",POINT(-94.059889 45.546556),1031,-6
+"STE","Stevens Point Municipal Airport",POINT(-89.5302844 44.5451356),1110,-6
+"STG","St. George Airport",POINT(-169.663611 56.577222),125,-9
+"STJ","Rosecrans Mem",POINT(-94.909706 39.771944),826,-6
+"STK","Sterling Municipal Airport",POINT(-103.2648454 40.6153136),4040,-7
+"STL","Lambert St Louis Intl",POINT(-90.370028 38.748697),618,-6
+"STS","Charles M Schulz Sonoma Co",POINT(-122.81288 38.508978),125,-8
+"SUA","Witham Field Airport",POINT(-80.221294 27.1816996),16,-5
+"SUE","Door County Cherryland Airport",POINT(-87.4215556 44.8436667),725,-6
+"SUN","Friedman Mem",POINT(-114.296194 43.504444),5320,-7
+"SUS","Spirit Of St Louis",POINT(-90.652044 38.662119),463,-6
+"SUU","Travis Afb",POINT(-121.927464 38.262692),62,-8
+"SUX","Sioux Gateway Col Bud Day Fld",POINT(-96.384367 42.402603),1098,-6
+"SVA","Savoonga Airport",POINT(-170.493 63.6864),53,-9
+"SVC","Grant County Airport",POINT(-108.156 32.6365),5446,-7
+"SVH","Regional Airport",POINT(-80.9538958 35.7649958),968,-5
+"SVN","Hunter Aaf",POINT(-81.145683 32.01),42,-5
+"SVW","Sparrevohn Lrrs",POINT(-155.574228 61.097369),1583,-9
+"SWD","Seward Airport",POINT(-149.4188122 60.1269383),22,-9
+"SWF","Stewart Intl",POINT(-74.104839 41.504094),491,-5
+"SXP","Sheldon Point Airport",POINT(-164.847778 62.520556),12,-9
+"SXQ","Soldotna Airport",POINT(-151.0382389 60.4749583),113,-9
+"SYA","Eareckson As",POINT(174.11362 52.712275),98,-9
+"SYB","Seal Bay Seaplane Base",POINT(-152.5 58.166667),0,-9
+"SYR","Syracuse Hancock Intl",POINT(-76.106311 43.111187),421,-5
+"SZL","Whiteman Afb",POINT(-93.547864 38.730306),870,-6
+"TAL","Tanana Airport",POINT(-152.075833 65.179556),207,-9
+"TAN","Taunton Municipal Airport - King Field",POINT(-71.0166453 41.8744017),43,-5
+"TBN","Waynesville Rgnl Arpt At Forney Fld",POINT(-92.140736 37.741631),1159,-6
+"TCC","Tucumcari Muni",POINT(-103.603186 35.182777),4065,-7
+"TCL","Tuscaloosa Rgnl",POINT(-87.611403 33.220627),170,-6
+"TCM","Mc Chord Afb",POINT(-122.476475 47.137678),322,-8
+"TCS","Truth Or Consequences Muni",POINT(-107.27175 33.236944),4853,-7
+"TCT","Takotna Airport",POINT(-156.082778 62.971944),825,-9
+"TEB","Teterboro",POINT(-74.060837 40.850103),9,-5
+"TEK","Tatitlek Airport",POINT(-146.691111 60.8725),62,-9
+"TEX","Telluride",POINT(-107.90848 37.953759),9078,-7
+"TIK","Tinker Afb",POINT(-97.386633 35.414739),1291,-6
+"TIW","Tacoma Narrows Airport",POINT(-122.57811 47.267944),294,-8
+"TIX","Space Coast Reg'l Airport",POINT(-80.7992278 28.5148),34,-5
+"TKA","Talkeetna",POINT(-150.093694 62.3205),358,-9
+"TKE","Tenakee Seaplane Base",POINT(-135.218333 57.779722),0,-9
+"TKF","Truckee-Tahoe Airport",POINT(-120.1395628 39.3200422),5900,-8
+"TKI","Collin County Regional Airport at Mc Kinney",POINT(-96.5905278 33.1779444),585,-6
+"TLA","Teller Airport",POINT(-166.339444 65.240278),294,-9
+"TLH","Tallahassee Rgnl",POINT(-84.350333 30.396528),81,-5
+"TLJ","Tatalina Lrrs",POINT(-155.976525 62.894369),964,-9
+"TLT","Tuluksak Airport",POINT(-160.969444 61.096944),30,-9
+"TMA","Henry Tift Myers Airport",POINT(-83.488545 31.4289814),355,-5
+"TMB","Kendall Tamiami Executive",POINT(-80.432777 25.647889),8,-5
+"TNC","Tin City LRRS Airport",POINT(-167.921667 65.563056),269,-9
+"TNK","Tununak Airport",POINT(-165.271667 60.575556),14,-9
+"TNT","Dade Collier Training And Transition",POINT(-80.897 25.861806),13,-5
+"TNX","Tonopah Test Range",POINT(-116.78075 37.798836),5549,-8
+"TOA","Zamperini Field Airport",POINT(-118.339611 33.803392),101,-8
+"TOC","Toccoa RG Letourneau Field Airport",POINT(-83.2963717 34.5928117),996,-5
+"TOG","Togiak Airport",POINT(-160.397 59.0528),21,-9
+"TOL","Toledo",POINT(-83.807833 41.586806),684,-5
+"TOP","Philip Billard Muni",POINT(-95.622482 39.068657),881,-6
+"TPA","Tampa Intl",POINT(-82.53325 27.975472),26,-5
+"TPL","Draughon Miller Central Texas Rgnl",POINT(-97.407778 31.1525),682,-6
+"TRI","Tri-Cities Regional Airport",POINT(-82.4074167 36.4752222),1519,-5
+"TRM","Jacqueline Cochran Regional Airport",POINT(-116.1596667 33.626666),0,-8
+"TSS","East 34th Street Heliport",POINT(-73.971944 40.7425),10,-5
+"TTD","Portland Troutdale",POINT(-122.401253 45.54937),39,-8
+"TTN","Trenton Mercer",POINT(-74.813469 40.276692),213,-5
+"TUL","Tulsa Intl",POINT(-95.888111 36.198389),677,-6
+"TUP","Tupelo Regional Airport",POINT(-88.7699 34.2681),346,-6
+"TUS","Tucson Intl",POINT(-110.941028 32.116083),2643,-7
+"TVC","Cherry Capital Airport",POINT(-85.582235 44.741445),624,-5
+"TVF","Thief River Falls",POINT(-96.185 48.065556),1116,-6
+"TVI","Thomasville Regional Airport",POINT(-83.8811285 30.9017921),264,-5
+"TVL","Lake Tahoe Airport",POINT(-119.995278 38.893889),8544,-8
+"TWA","Twin Hills Airport",POINT(-160.275 59.074444),82,-9
+"TWD","Jefferson County Intl",POINT(-122.4838 48.0314),108,-8
+"TWF","Magic Valley Regional Airport",POINT(-114.487733 42.481803),4151,-7
+"TXK","Texarkana Rgnl Webb Fld",POINT(-93.991028 33.453722),390,-6
+"TYE","Tyonek Airport",POINT(-151.138056 61.076667),110,-9
+"TYR","Tyler Pounds Rgnl",POINT(-95.402386 32.354139),544,-6
+"TYS","Mc Ghee Tyson",POINT(-83.994028 35.810972),981,-5
+"TZR","Bolton Field",POINT(-83.136944 39.901111),905,-5
+"U76","Mountain Home Municipal Airport",POINT(-115.7305671 43.1316111),3167,-7
+"UCA","Union Station",POINT(-75.223333 43.104167),456,-5
+"UDD","Bermuda Dunes Airport",POINT(-116.2748133 33.7484375),73,-8
+"UDG","Darlington County Jetport",POINT(-79.8900608 34.4493845),192,-5
+"UES","Waukesha County Airport",POINT(-88.2370556 43.0410278),911,-6
+"UGN","Waukegan Rgnl",POINT(-87.867908 42.422161),727,-6
+"UIN","Quincy Regional Baldwin Field",POINT(-91.1946 39.9427),769,-6
+"UMP","Indianapolis Metropolitan Airport",POINT(-86.045 39.935278),811,-5
+"UNK","Unalakleet Airport",POINT(-160.798889 63.888333),21,-9
+"UPP","Upolu",POINT(-155.859989 20.265256),96,-10
+"UST","St. Augustine Airport",POINT(-81.339722 29.959167),10,-5
+"UT3","Hite Airport",POINT(-110.3840289 37.8916547),3840,-7
+"UTM","Tunica Municipal Airport",POINT(-90.3467 34.681),194,-6
+"UTO","Indian Mountain Lrrs",POINT(-153.704289 65.992794),1220,-9
+"UUK","Ugnu-Kuparuk Airport",POINT(-149.5975 70.330833),67,-9
+"UUU","Newport State",POINT(-71.282222 41.533056),172,-5
+"UVA","Garner Field",POINT(-99.748962 29.215429),942,-6
+"VAD","Moody Afb",POINT(-83.193 30.967833),233,-5
+"VAK","Chevak Airport",POINT(-165.584 61.5338),75,-9
+"VAY","South Jersey Regional Airport",POINT(-74.84575 39.9428889),53,-5
+"VBG","Vandenberg Afb",POINT(-120.584306 34.737333),369,-8
+"VCT","Victoria Regional Airport",POINT(-96.9185 28.8526),115,-6
+"VCV","Southern California Logistics",POINT(-117.382997 34.597453),2885,-8
+"VDF","Tampa Executive Airport",POINT(-82.3452778 28.0139772),22,-5
+"VDZ","Valdez Pioneer Fld",POINT(-146.248342 61.133949),118,-9
+"VEE","Venetie Airport",POINT(-146.366389 67.008611),574,-9
+"VEL","Vernal Regional Airport",POINT(-109.51 40.440833),5278,-7
+"VGT","North Las Vegas Airport",POINT(-115.1944444 36.2106944),2205,-8
+"VIS","Visalia Municipal Airport",POINT(-119.392778 36.318611),295,-8
+"VLD","Valdosta Regional Airport",POINT(-83.2767 30.7825),203,-5
+"VNW","Van Wert County Airport",POINT(-84.606358 40.8638295),787,-5
+"VNY","Van Nuys",POINT(-118.489972 34.209811),802,-8
+"VOK","Volk Fld",POINT(-90.253433 43.938956),912,-6
+"VPC","Cartersville Airport",POINT(-84.8487067 34.1231475),759,-5
+"VPS","Eglin Afb",POINT(-86.5254 30.48325),87,-6
+"VRB","Vero Beach Muni",POINT(-80.417944 27.655556),24,-5
+"VSF","Hartness State",POINT(-72.517222 43.343333),577,-5
+"VYS","Illinois Valley Regional",POINT(-89.153056 41.351944),654,-6
+"W04","Ocean Shores Municipal",POINT(-124.0854 46.5995),15,-8
+"W13","Eagle's Nest Airport",POINT(-78.944167 38.076944),1437,-5
+"WAA","Wales Airport",POINT(-168.095 65.6225),22,-9
+"WAL","Wallops Flight Facility",POINT(-75.466389 37.940194),40,-5
+"WAS","All Airports",POINT(-77.035278 38.889444),25,-5
+"WBB","Stebbins Airport",POINT(-162.278056 63.515833),14,-9
+"WBQ","Beaver Airport",POINT(-147.406667 66.362222),359,-9
+"WBU","Boulder Municipal",POINT(-105.225833 40.039444),5288,-7
+"WBW","Wilkes-Barre Wyoming Valley Airport",POINT(-75.8522405 41.2973074),543,-5
+"WDR","Barrow County Airport",POINT(-83.6674167 33.9828611),943,-5
+"WFB","Ketchikan harbor Seaplane Base",POINT(-131.663333 55.344444),0,-9
+"WFK","Northern Aroostook Regional Airport",POINT(-68.312778 47.285556),988,-5
+"WHD","Hyder Seaplane Base",POINT(-130.006667 55.903333),0,-8
+"WHP","Whiteman Airport",POINT(-118.4134331 34.2593253),1003,-8
+"WIH","Wishram Amtrak Station",POINT(-120.9664 45.6576),1,-8
+"WKK","Aleknagik Airport",POINT(-158.618 59.2826),66,-9
+"WKL","Waikoloa Heliport",POINT(-155.864 19.9136),109,-10
+"WLK","Selawik Airport",POINT(-159.985833 66.6),17,-9
+"WMO","White Mountain Airport",POINT(-163.412778 64.689167),267,-9
+"WRB","Robins Afb",POINT(-83.59185 32.640144),294,-5
+"WRG","Wrangell Airport",POINT(-132.37 56.4843),44,-9
+"WRI","Mc Guire Afb",POINT(-74.591667 40.015556),131,-5
+"WRL","Worland Municipal Airport",POINT(-107.951 43.9657),4227,-7
+"WSD","Condron Aaf",POINT(-106.40277 32.341484),3934,-7
+"WSJ","San Juan - Uganik Seaplane Base",POINT(-153.320556 57.730278),0,-9
+"WSN","South Naknek Airport",POINT(-157.0025 58.702222),162,-9
+"WST","Westerly State Airport",POINT(-71.803333 41.349722),81,-5
+"WSX","Westsound Seaplane Base",POINT(-122.952778 48.617778),0,-8
+"WTK","Noatak Airport",POINT(-162.975 67.5661),88,-9
+"WTL","Tuntutuliak Airport",POINT(-162.666944 60.335278),16,-9
+"WWD","Cape May Co",POINT(-74.908275 39.008507),23,-5
+"WWP","North Whale Seaplane Base",POINT(-133.121667 56.116389),0,-9
+"WWT","Newtok Airport",POINT(-164.641111 60.939167),25,-9
+"WYS","Yellowstone Airport",POINT(-111.1175 44.688333),6644,-7
+"X01","Everglades Airpark",POINT(-81.3902778 25.8488611),5,-5
+"X04","Apopka",POINT(-81.581667 28.707222),143,-5
+"X07","Lake Wales Municipal Airport",POINT(-81.6203889 27.8938056),127,-5
+"X21","Arthur Dunn Airpark",POINT(-80.83541 28.622552),30,-5
+"X26","Sebastian Municipal",POINT(-80.4955833 27.81325),21,-5
+"X39","Tampa North Aero Park",POINT(-82.374555 28.221278),68,-5
+"X49","South Lakeland Airport",POINT(-82.0439739 27.9333581),110,-5
+"X59","Valkaria Municipal",POINT(-80.5583333 27.9608611),26,-5
+"XFL","Flagler County Airport",POINT(-81.1212 29.2821),33,-5
+"XNA","NW Arkansas Regional",POINT(-94.3068111 36.2818694),1287,-6
+"XZK","Amherst Amtrak Station AMM",POINT(-72.511389 42.375),258,-5
+"Y51","Municipal Airport",POINT(-90.8964742 43.5793603),1292,-6
+"Y72","Bloyer Field",POINT(-90.4806111 43.9762222),966,-6
+"YAK","Yakutat",POINT(-139.3937 59.3012),33,-9
+"YIP","Willow Run",POINT(-83.530408 42.237928),716,-5
+"YKM","Yakima Air Terminal McAllister Field",POINT(-120.544 46.5682),1095,-8
+"YKN","Chan Gurney",POINT(-97.3969 42.8711),1200,-6
+"YNG","Youngstown Warren Rgnl",POINT(-80.679097 41.260736),1196,-5
+"YUM","Yuma Mcas Yuma Intl",POINT(-114.60598 32.656578),216,-7
+"Z84","Clear",POINT(-149.120144 64.301203),552,-9
+"ZBP","Penn Station",POINT(-76.615556 39.307222),66,-5
+"ZFV","Philadelphia 30th St Station",POINT(-75.182 39.9557),0,-5
+"ZPH","Municipal Airport",POINT(-82.155833 28.228056),90,-5
+"ZRA","Atlantic City Rail Terminal",POINT(-74.442 39.3665),8,-5
+"ZRD","Train Station",POINT(-77.42945 37.5343),26,-5
+"ZRP","Newark Penn Station",POINT(-74.164167 40.734722),0,-5
+"ZRT","Hartford Union Station",POINT(-72.6815 41.76888),0,-5
+"ZRZ","New Carrollton Rail Station",POINT(-76.8719 38.948),39,-5
+"ZSF","Springfield Amtrak Station",POINT(-72.593054 42.106),65,-5
+"ZSY","Scottsdale Airport",POINT(-111.9105278 33.6228889),1519,-7
+"ZTF","Stamford Amtrak Station",POINT(-73.541493 41.046937),0,-5
+"ZTY","Boston Back Bay Station",POINT(-71.075 42.3478),20,-5
+"ZUN","Black Rock",POINT(-108.791778 35.083228),6454,-7
+"ZVE","New Haven Rail Station",POINT(-72.925992 41.298669),7,-5
+"ZWI","Wilmington Amtrak Station",POINT(-75.551667 39.736667),0,-5
+"ZWU","Washington Union Station",POINT(-77.00643 38.89746),76,-5
+"ZYP","Penn Station",POINT(-73.9935 40.7505),35,-5
